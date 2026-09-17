@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Muenchen Kulturtipps//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:München Kulturtipps
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:20260917-hakakian-jmm@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260917T190000
+DTEND;TZID=Europe/Berlin:20260917T203000
+SUMMARY:Roya Hakakian: Poetry and Identity between Iran\, Israel and the USA
+LOCATION:Jüdisches Museum München\, St.-Jakobs-Platz 16\, 80331 München
+DESCRIPTION:Lesung und Gespräch zu Poesie\, Migration\, Erinnerung\, jüdischer Identität sowie Iran und USA. Eintritt frei\, Anmeldung erforderlich.
+URL:https://www.juedisches-museum-muenchen.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-duende-importexport@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260918T203000
+DTEND;TZID=Europe/Berlin:20260918T223000
+SUMMARY:Duende „Ev Giza“ + Poeji
+LOCATION:Import Export\, Schwere-Reiter-Str. 2h\, 80636 München
+DESCRIPTION:Harfe\, Schlagzeug und Live-Elektronik zwischen klassischer Harfenmusik\, perkussiver Improvisation und elektronischem Klang. Einlass 19:30. Endzeit geschätzt.
+URL:https://import-export.cc/
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-radikalisierung-nsdoku@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260919T100000
+DTEND;TZID=Europe/Berlin:20260919T150000
+SUMMARY:„Das wird man doch mal sagen dürfen.“ – Radikalisierung der Mehrheitsgesellschaft?
+LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333 München
+DESCRIPTION:Seminar zu Sprache\, Weimarer Republik\, Nationalsozialismus und heutigen rechtspopulistischen bzw. antidemokratischen Tendenzen. Eintritt frei\, Voranmeldung erforderlich.
+URL:https://www.nsdoku.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919-herwig-schwerereiter@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260919T160000
+DTEND;TZID=Europe/Berlin:20260919T200000
+SUMMARY:Stephan Herwig: SOMEtimes all it takes is a little more TIME
+LOCATION:schwere reiter\, Dachauer Str. 114a\, 80636 München
+DESCRIPTION:Vierstündige bewegte Körperinstallation mit elf Tänzer:innen. Publikum kann jederzeit kommen und gehen. Ticket gilt laut Veranstalter auch für wiederholte Besuche an Folgetagen.
+URL:https://schwerereiter.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922-stravinsky-musica-viva@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260922T190000
+DTEND;TZID=Europe/Berlin:20260922T210000
+SUMMARY:Strawinsky: Die Geschichte vom Soldaten – musica viva
+LOCATION:Prinzregententheater\, Prinzregentenplatz 12\, 81675 München
+DESCRIPTION:Isabelle Faust & Friends\, Salzburger Marionettentheater und Ausstattung/Marionetten von Georg Baselitz. Endzeit geschätzt.
+URL:https://www.br-musica-viva.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-empoerungsfalle-literaturhaus@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260923T190000
+DTEND;TZID=Europe/Berlin:20260923T203000
+SUMMARY:Saba-Nur Cheema & Meron Mendel: Die Empörungsfalle
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
+DESCRIPTION:Gespräch über demokratische Streitkultur\, Eskalation öffentlicher Debatten und politische Emotionalisierung. Endzeit geschätzt.
+URL:https://www.literaturhaus-muenchen.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-sonic-hypnosis-importexport@chatgpt
+DTSTAMP:20260917T073100Z
+DTSTART;TZID=Europe/Berlin:20260923T200000
+DTEND;TZID=Europe/Berlin:20260923T220000
+SUMMARY:Sonic Hypnosis – Delphine Joussein\, Enid Valu\, Anton Kaun
+LOCATION:Import Export\, Schwere-Reiter-Str. 2h\, 80636 München
+DESCRIPTION:Elektroakustisches Konzert mit Flöte\, Stimme\, Mundgeräuschen\, Perkussion und Elektronik. Endzeit geschätzt.
+URL:https://import-export.cc/
+END:VEVENT
+END:VCALENDAR
