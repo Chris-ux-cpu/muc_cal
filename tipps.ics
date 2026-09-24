@@ -105,4 +105,24 @@ ACTION:DISPLAY
 DESCRIPTION:Erinnerung: Wem gehört die Zukunft? – Eva von Redecker & Sabine Nuss
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260930-ernaehrungssystem-convivium@chatgpt
+DTSTAMP:20260924T071558Z
+DTSTART;TZID=Europe/Berlin:20260930T190000
+DTEND;TZID=Europe/Berlin:20260930T210000
+SUMMARY:Alternative: Das Ernährungssystem braucht ein Miteinander
+LOCATION:Ernst-von-Siemens-Auditorium\, Pinakothek der Moderne\, Barer Straße 40\, 80333 München
+DESCRIPTION:Starke Alternative: Slow-Food-Podium zur Zukunft eines gerechten und nachhaltigen Ernährungssystems mit Marta Messa\, Tina Andres\, Peter Strohschneider und Alois Heißenhuber. Eintritt frei\, Anmeldung erforderlich. Separate Kuratorinnenführung 16:30–18:00.
+URL:https://www.slowfood.de/kalender/termine_ueberregional/ausstellung-convivium
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Alternative: Das Ernährungssystem braucht ein Miteinander
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Alternative: Das Ernährungssystem braucht ein Miteinander
+END:VALARM
+END:VEVENT
 END:VCALENDAR
