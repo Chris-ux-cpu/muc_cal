@@ -125,4 +125,24 @@ ACTION:DISPLAY
 DESCRIPTION:Erinnerung: Alternative: Das Ernährungssystem braucht ein Miteinander
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:20260924-voyager-quartet-belleparais@chatgpt
+DTSTAMP:20260924T071800Z
+DTSTART;TZID=Europe/Berlin:20260924T200000
+DTEND;TZID=Europe/Berlin:20260924T220000
+SUMMARY:Alternative: Salon LXII – Voyager Quartet
+LOCATION:BELLEPARAIS\, Schellingstraße 54\, 80799 München
+DESCRIPTION:Starke Alternative im BELLEPARAIS Salon während der Ausstellung Yvonne Wahl – Orbit. Das kleine Galeriesetting verbindet bildende Kunst und Musik besonders unmittelbar. Endzeit geschätzt.
+URL:https://www.belleparais.com/salon/forthcoming/salon-lxii-voyager-quartett-24-09-2026-20-h.html
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Alternative: Salon LXII – Voyager Quartet
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Alternative: Salon LXII – Voyager Quartet
+END:VALARM
+END:VEVENT
 END:VCALENDAR
