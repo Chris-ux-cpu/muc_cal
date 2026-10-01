@@ -1,148 +1,175 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//Muenchen Kulturtipps//DE
+PRODID:-//OpenAI//Muenchen Veranstaltungstipps//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:München Kulturtipps
+X-WR-CALNAME:Münchner Veranstaltungstipps
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:20260924-max-mannheimer-nsdoku@chatgpt
-DTSTAMP:20260924T071558Z
-DTSTART;TZID=Europe/Berlin:20260924T190000
-DTEND;TZID=Europe/Berlin:20260924T203000
-SUMMARY:Ein Abend in Erinnerung an Max Mannheimer
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333 München
-DESCRIPTION:Gespräch mit Ernst Mannheimer und Katja Wildermuth\, Einführung von Christian Ude. Eintritt frei. Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/archiv/detailseite/ein-abend-in-erinnerung-an-max-mannheimer-2627
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Ein Abend in Erinnerung an Max Mannheimer
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Ein Abend in Erinnerung an Max Mannheimer
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260925-cellovoice-schwere-reiter@chatgpt
-DTSTAMP:20260924T071558Z
-DTSTART;TZID=Europe/Berlin:20260925T200000
-DTEND;TZID=Europe/Berlin:20260925T220000
-SUMMARY:Anja Lechner & Sissel Vera Pettersen: Cello/Voice Exchange
+UID:20261001-lamento-schwere-reiter@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261001T200000
+DTEND;TZID=Europe/Berlin:20261001T220000
+SUMMARY:Duo Grimm – Seleljo: LAMENTO
 LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Deutschlandpremieren neuer Werke von Meredith Monk und Jon Balke\; Violoncello\, Stimme\, Saxophon und Live-Elektronik zwischen Komposition und Improvisation. Tickets 18 / 12 EUR. Endzeit geschätzt.
-URL:https://schwerereiter.de/?tribe_events=anja-lechner-sissel-vera-pettersen-cello-voice-exchange
+DESCRIPTION:CD-Präsentation mit Jakob Grimm (Posaune) und Irén Seleljo 
+ (Klavier): akustische Klangverfremdungen\, archaische Posaunenfarben und
+  Werke u. a. von Kurtág\, Zwerger\, Désenclos\, Putignano und Leibowit
+ z. Tickets 18 / 12 EUR. Endzeit geschätzt.
+URL:https://schwerereiter.de/?tribe_events=duo-grimm-seleljo-lamento
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Anja Lechner & Sissel Vera Pettersen: Cello/Voice Exchange
+DESCRIPTION:Erinnerung: Duo Grimm – Seleljo: LAMENTO
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Anja Lechner & Sissel Vera Pettersen: Cello/Voice Exchange
+DESCRIPTION:Erinnerung: Duo Grimm – Seleljo: LAMENTO
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260926-autechre-muffatwerk@chatgpt
-DTSTAMP:20260924T071558Z
-DTSTART;TZID=Europe/Berlin:20260926T200000
-DTEND;TZID=Europe/Berlin:20260926T230000
-SUMMARY:Autechre – twentytwentysix
-LOCATION:Muffathalle\, Zellstraße 4\, 81667 München
-DESCRIPTION:Einzige Deutschland-Show der Tour\; radikale Electronica zwischen Abstract Techno\, Ambient und Noise\, live in völliger Dunkelheit. VVK ab 44\,95 EUR\, AK 45 EUR. Endzeit geschätzt.
-URL:https://www.muffatwerk.de/de/events/view/7860/autechre
+UID:20261002-francesco-tristano-bergson@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261002T190000
+DTEND;TZID=Europe/Berlin:20261002T201500
+SUMMARY:Francesco Tristano: piano 2.0
+LOCATION:Bergson Kunstkraftwerk\, Am Bergson Kunstkraftwerk 2\, 81245 Mü
+ nchen
+DESCRIPTION:Piano und Elektronik zwischen Bach\, Tristano\, Franceschini 
+ und Techno. Social-Price 28 EUR\, Fair-Price 44 EUR\, Support-Price 56 E
+ UR.
+URL:https://bergson.com/en/event/francesco-tristano-piano-2-0
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Autechre – twentytwentysix
+DESCRIPTION:Erinnerung: Francesco Tristano: piano 2.0
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Autechre – twentytwentysix
+DESCRIPTION:Erinnerung: Francesco Tristano: piano 2.0
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20260927-from-evin-finissage@chatgpt
-DTSTAMP:20260924T071558Z
-DTSTART;TZID=Europe/Berlin:20260927T190000
-DTEND;TZID=Europe/Berlin:20260927T203000
-SUMMARY:From Evin to Munich to the World – Finissage & Konzert
-LOCATION:Einstein Kultur\, Einsteinstraße 42\, 81675 München
-DESCRIPTION:Abschluss der Ausstellung From Evin with Love mit Arash Sasan\; Kunst\, Erinnerung\, Menschenrechte und Musik. Eintritt frei. Endzeit geschätzt.
-URL:https://wlf-munich.org/de/events/from-evin-with-love
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: From Evin to Munich to the World – Finissage & Konzert
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: From Evin to Munich to the World – Finissage & Konzert
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260930-wem-gehoert-die-zukunft-nsdoku@chatgpt
-DTSTAMP:20260924T071558Z
-DTSTART;TZID=Europe/Berlin:20260930T190000
-DTEND;TZID=Europe/Berlin:20260930T203000
-SUMMARY:Wem gehört die Zukunft? – Eva von Redecker & Sabine Nuss
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333 München
-DESCRIPTION:Gespräch über Eigentum\, soziale Unsicherheit\, autoritäre Bewegungen und antifaschistische Wirtschaftspolitik. Moderation: Ferdinand Meyen. Eintritt frei. Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/wem-gehoert-die-zukunft-eigentum-verlustangst-und-der-neue-faschismus-2645
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Wem gehört die Zukunft? – Eva von Redecker & Sabine Nuss
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Wem gehört die Zukunft? – Eva von Redecker & Sabine Nuss
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260930-ernaehrungssystem-convivium@chatgpt
-DTSTAMP:20260924T071558Z
-DTSTART;TZID=Europe/Berlin:20260930T190000
-DTEND;TZID=Europe/Berlin:20260930T210000
-SUMMARY:Alternative: Das Ernährungssystem braucht ein Miteinander
-LOCATION:Ernst-von-Siemens-Auditorium\, Pinakothek der Moderne\, Barer Straße 40\, 80333 München
-DESCRIPTION:Starke Alternative: Slow-Food-Podium zur Zukunft eines gerechten und nachhaltigen Ernährungssystems mit Marta Messa\, Tina Andres\, Peter Strohschneider und Alois Heißenhuber. Eintritt frei\, Anmeldung erforderlich. Separate Kuratorinnenführung 16:30–18:00.
-URL:https://www.slowfood.de/kalender/termine_ueberregional/ausstellung-convivium
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Alternative: Das Ernährungssystem braucht ein Miteinander
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Alternative: Das Ernährungssystem braucht ein Miteinander
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20260924-voyager-quartet-belleparais@chatgpt
-DTSTAMP:20260924T071800Z
-DTSTART;TZID=Europe/Berlin:20260924T200000
-DTEND;TZID=Europe/Berlin:20260924T220000
-SUMMARY:Alternative: Salon LXII – Voyager Quartet
+UID:20261003-orbit-finissage-belleparais@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261003T140000
+DTEND;TZID=Europe/Berlin:20261003T160000
+SUMMARY:Yvonne Wahl: Orbit – Finissage & Führung
 LOCATION:BELLEPARAIS\, Schellingstraße 54\, 80799 München
-DESCRIPTION:Starke Alternative im BELLEPARAIS Salon während der Ausstellung Yvonne Wahl – Orbit. Das kleine Galeriesetting verbindet bildende Kunst und Musik besonders unmittelbar. Endzeit geschätzt.
-URL:https://www.belleparais.com/salon/forthcoming/salon-lxii-voyager-quartett-24-09-2026-20-h.html
+DESCRIPTION:Führung durch die Ausstellung gemeinsam mit Yvonne Wahl um 1
+ 4 Uhr\, anschließend Kaffee und Kuchen. Die Finissage beginnt bereits a
+ b 12 Uhr. Kein Eintrittspreis auf der Veranstaltungsseite angegeben. End
+ zeit geschätzt.
+URL:https://www.belleparais.com/exhibitions.html
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Alternative: Salon LXII – Voyager Quartet
+DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Führung
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Alternative: Salon LXII – Voyager Quartet
+DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Führung
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003-cladi-schwere-reiter@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261003T200000
+DTEND;TZID=Europe/Berlin:20261003T221500
+SUMMARY:der/gelbe/klang: Vykintas Baltakas – Cladi I–V
+LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Uraufführung des vollständigen Cladi-Zyklus von Vykintas Ba
+ ltakas mit Ensemble\, Akkordeon und Elektronik. Tickets 18 / 12 EUR. End
+ zeit geschätzt.
+URL:https://schwerereiter.de/?tribe_events=der-gelbe-klang-vykintas-balta
+kas-cladi-i-v
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–
+ V
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–
+ V
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261004-orff-techno-weltmusik-isarphilharmonie@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261004T190000
+DTEND;TZID=Europe/Berlin:20261004T213000
+SUMMARY:Orff meets Techno & Weltmusik
+LOCATION:Isarphilharmonie\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81
+ 379 München
+DESCRIPTION:17. Orff-Tage: LBT Techno Piano Trio\, Enkhjargal Dandarvaanc
+ hig mit Obertongesang und Morin khuur\, dazu Chor\, Streichquintett\, Kl
+ avierduo und Percussion-Ensemble der Bayerischen Philharmonie. Tickets a
+ b 41\,60 EUR. Endzeit geschätzt.
+URL:https://www.bayerische-philharmonie.de/de/bph/orff-meets-techno-weltm
+ usik-04oktober-2026-1900-uhr-isarphilharmonie-muenchen--k604
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Orff meets Techno & Weltmusik
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Orff meets Techno & Weltmusik
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261004-fragile-furore-schwere-reiter@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261004T200000
+DTEND;TZID=Europe/Berlin:20261004T220000
+SUMMARY:Duo Fujita – Krauß: fragile furore
+LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Interdisziplinäres Konzert zwischen Stimme\, Violine/Viola u
+ nd Bild mit Uraufführungen von Narine Khatchatryan und Barbara Mayer so
+ wie Werken u. a. von Hildegard von Bingen und Kaija Saariaho. Gemäldepr
+ äsentation ab 19:30 Uhr. Tickets 18 / 12 EUR.
+URL:https://schwerereiter.de/?tribe_events=duo-fujita-krauss-fragile-furo
+re
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Duo Fujita – Krauß: fragile furore
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Duo Fujita – Krauß: fragile furore
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-offene-gesellschaft-gasteig@chatgpt
+DTSTAMP:20261001T065933Z
+DTSTART;TZID=Europe/Berlin:20261007T193000
+DTEND;TZID=Europe/Berlin:20261007T210000
+SUMMARY:Wege in eine offene Gesellschaft – Paneltalk
+LOCATION:Projektor\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81379 Mü
+ nchen
+DESCRIPTION:Gilda Sahebi\, Anne Rabe und Dr. Britta Schellenberg diskutie
+ren über Polarisierung\, Demokratie und die offene Gesellschaft\; Moder
+ation Tuncay Acar. Eintritt frei. Endzeit geschätzt.
+URL:https://www.gasteig.de/veranstaltungen/wege-in-eine-offene-gesellscha
+ft-paneltalk/
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Wege in eine offene Gesellschaft – Paneltalk
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Wege in eine offene Gesellschaft – Paneltalk
 END:VALARM
 END:VEVENT
 END:VCALENDAR
