@@ -35,7 +35,7 @@ DESCRIPTION:Lesung und Gespräch mit Yáng Shuāng-Zǐ\, Kai Strittmatter
  16 / 10 EUR\, Stream 8 EUR. Die veröffentlichte Seite nennt keine Endzei
  t\; Endzeit geschätzt.
 URL:https://www.literaturhaus-muenchen.de/veranstaltung/international-book
-er-prize-das-taiwan-tagebuch/
+ er-prize-das-taiwan-tagebuch/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -58,7 +58,7 @@ SUMMARY:Francis Fukuyama: Der letzte Mensch. Wohin steuert die Welt?
 LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
 DESCRIPTION:Francis Fukuyama im Gespräch mit Cathrin Kahlweit über sein 
  neues Buch und die Entwicklung seiner Thesen seit 1992. Veranstaltungsspr
-ache Englisch. Eintritt 25 / 15 EUR\, Stream 8 EUR. Die veröffentlichte 
+ ache Englisch. Eintritt 25 / 15 EUR\, Stream 8 EUR. Die veröffentlichte 
  Seite nennt keine Endzeit\; Endzeit geschätzt.
 URL:https://www.literaturhaus-muenchen.de/veranstaltung/der-letzte-mensch-
  wohin-steuert-die-welt/
@@ -83,23 +83,23 @@ DTEND;TZID=Europe/Berlin:20261003T160000
 SUMMARY:Yvonne Wahl: Orbit – Finissage & Künstlerinnenführung
 LOCATION:BELLEPARAIS\, Schellingstraße 54\, 80799 München
 DESCRIPTION:Finissage von Yvonne Wahls dreiteiligem\, räumlich-fluidem Au
-sstellungsformat. Führung gemeinsam mit Yvonne Wahl um 14 Uhr\, anschlie
-ßend Kaffee und Kuchen\; Finissage ab 12 Uhr. Auf der Veranstaltungsseit
-e ist kein Eintrittspreis oder Ticketverfahren ausgewiesen. Endzeit gesch
-ätzt.
+ sstellungsformat. Führung gemeinsam mit Yvonne Wahl um 14 Uhr\, anschlie
+ ßend Kaffee und Kuchen\; Finissage ab 12 Uhr. Auf der Veranstaltungsseit
+ e ist kein Eintrittspreis oder Ticketverfahren ausgewiesen. Endzeit gesch
+ ätzt.
 URL:https://www.belleparais.com/exhibitions/current/ausst32-yvonne-wahl-13
  -8-26-3-10-26.html
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnenf
-ührung
+ ührung
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
+TRIGGGER:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnenf
-ührung
+ ührung
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -113,9 +113,9 @@ DESCRIPTION:Uraufführung des vollständigen Cladi-Zyklus von Vykintas Bal
  takas durch der/gelbe/klang\, mit Ensemble und Elektronik. Eintritt 18 / 
  12 EUR. Endzeit geschätzt.
 URL:https://schwerereiter.de/?tribe_events=der-gelbe-klang-vykintas-baltak
-as-cladi-i-v
+ as-cladi-i-v
 BEGIN:VALARM
-TRIGGER:-P1D
+TRIGGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–V
 END:VALARM
@@ -130,22 +130,22 @@ UID:20261004-convivium-talk-talk@openai
 DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261004T150000
 DTEND;TZID=Europe/Berlin:20261004T170000
-SUMMARY:talk talk: CONVIVIUM – Nahrungssysteme am Limit
+SUMMARY:talk talk: CONVIVIUM – Nahrungsssysteme am Limit
 LOCATION:Architekturmuseum der TUM\, Pinakothek der Moderne\, Barer Straß
-e 40\, 80333 München
+ e 40\, 80333 München
 DESCRIPTION:Museumsgespräche zur Ausstellung CONVIVIUM über Nahrungssyst
-eme\, Architektur\, Produktion\, Transport und Konsum. 15–17 Uhr\, Eins
-tieg jederzeit. Teilnahme im Museumseintritt enthalten\; sonntags regulä
-r 1 EUR\, unter 18 frei. Begrenzte Teilnahmeplätze\, ohne Teilnahmeticke
-t.
+ eme\, Architektur\, Produktion\, Transport und Konsum. 15–17 Uhr\, Eins
+ tieg jederzeit. Teilnahme im Museumseintritt enthalten\; sonntags regulä
+ r 1 EUR\, unter 18 frei. Begrenzte Teilnahmeplätze\, ohne Teilnahmeticke
+ t.
 URL:https://www.pinakothek-der-moderne.de/ausstellungen/convivium/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: talk talk: CONVIVIUM – Nahrungssysteme am Limit
+DESCRIPTION:Erinnerung: talk talk: CONVIVIUM – Nahrungsssysteme am Limit
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
+TRIGGER:--PT2H
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: talk talk: CONVIVIUM – Nahrungssysteme am Limit
 END:VALARM
@@ -157,9 +157,9 @@ DTSTART;TZID=Europe/Berlin:20261004T190000
 DTEND;TZID=Europe/Berlin:20261004T213000
 SUMMARY:Orff Meets Techno & Weltmusik
 LOCATION:Isarphilharmonie\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 813
-79 München
+ 79 München
 DESCRIPTION:17. Orff-Tage mit LBT Techno Piano Trio\, Enkhjargal Dandarvaa
-nchig (Morin khuur und Gesang)\, Chor\, Streichquintett\, Klavierduo und 
+ nchig (Morin khuur und Gesang)\, Chor\, Streichquintett\, Klavierduo und 
  Percussion-Ensemble der Bayerischen Philharmonie. Tickets ab 41\,60 EUR.
 URL:https://www.gasteig.de/veranstaltungen/carl-orff-tage-2026/
 BEGIN:VALARM
@@ -180,23 +180,23 @@ DTSTART;TZID=Europe/Berlin:20261006T190000
 DTEND;TZID=Europe/Berlin:20261006T203000
 SUMMARY:wo zeit stehen bleibt. vom tourismus und seiner gewalt
 LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 8033
-3 München
+ 3 München
 DESCRIPTION:Lesung und Gespräch mit Sinthujan Varatharajah und Asal Darda
-n über ungleiche Mobilität\, Reisen und modernen Tourismus. Eintritt fr
-ei. Die veröffentlichte Seite nennt keine Endzeit\; Endzeit geschätzt.
+ n über ungleiche Mobilität\, Reisen und modernen Tourismus. Eintritt fr
+ ei. Die veröffentlichte Seite nennt keine Endzeit\; Endzeit geschätzt.
 URL:https://www.nsdoku.de/programm/aktuell/detailseite/wo-zeit-stehen-blei
-bt-vom-tourismus-und-seiner-gewalt-2705
+ bt-vom-tourismus-und-seiner-gewalt-2705
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner ge
-walt
+ walt
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner ge
-walt
+ walt
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -206,24 +206,21 @@ DTSTART;TZID=Europe/Berlin:20261006T200000
 DTEND;TZID=Europe/Berlin:20261006T223000
 SUMMARY:TROTZDEM: LEYA + Violeta García & Hora Lunga + PILLBERT
 LOCATION:Import Export\, Schwere-Reiter-Straße 2h\, 80636 München
-DESCRIPTION:Kuratierte Reihe mit wechselnden räumlichen Höranordnungen z
-wischen Listening Session und Konzert. LEYA (Harfe\, Stimme\, Violine)\, 
- Violeta García & Hora Lunga sowie PILLBERT mit Musik\, Video\, Performan
-ce und Field Recordings. Einlass 19 Uhr\, Beginn 20 Uhr. VVK 14 EUR zzgl.
-  Gebühren\, Abendkasse 16 EUR\, ermäßigt 12 EUR\; KulturRaum-Kontingen
-t für Menschen mit geringem Einkommen. Endzeit geschätzt.
+DESCRIPTION:Kuratierte Reihe mit wechselnden räumlichen Höranordnungen zwischen Listening Session und Konzert. LEYA (Harfe\, Stimme\, Violine)\, 
+ Violeta García & Hora Lunga sowie PILLBERT mit Musik\, Video\, Performance und Field Recordings. Einlass 19 Uhr\, Beginn 20 Uhr. VVK 14 EUR zzgl.
+  Gebühren\, Abendkasse 16 EUR\, ermäßigt 12 EUR\; KulturRaum-Kontingent für Menschen mit geringem Einkommen. Endzeit geschätzt.
 URL:https://import-export.cc/event/trotzdem-2/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + PI
-LLBERT
+ LL$BIRT
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + PI
-LLBERT
+ LLBERT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -233,20 +230,20 @@ DTSTART;TZID=Europe/Berlin:20261007T193000
 DTEND;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Wege in eine offene Gesellschaft – Paneltalk
 LOCATION:Projektor\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81379 Mün
-chen
+ chen
 DESCRIPTION:Paneltalk mit Gilda Sahebi\, Anne Rabe und Dr. Britta Schellen
-berg über gesellschaftliche Entwicklungen\, Polarisierung und Demokratie
-\; Moderation Tuncay Acar. Eintritt frei. Die veröffentlichte Seite nenn
-t keine Endzeit\; Endzeit geschätzt.
+ berg über gesellschaftliche Entwicklungen\, Polarisierung und Demokratie
+ \; Moderation Tuncay Acar. Eintritt frei. Die veröffentlichte Seite nenn
+ t keine Endzeit\; Endzeit geschätzt.
 URL:https://www.gasteig.de/veranstaltungen/wege-in-eine-offene-gesellschaf
-t-paneltalk/
+ t-paneltalk/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: Wege in eine offene Gesellschaft – Paneltalk
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
+TRIGGGER:-PT2H
 ACTION:DISPLAY
 DESCRIPTION:Erinnerung: Wege in eine offene Gesellschaft – Paneltalk
 END:VALARM
