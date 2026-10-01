@@ -2,40 +2,40 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//OpenAI//Muenchen Kulturtipps//DE
 CALSCALE:GREGORIAN
-METHOD:PUBLISH
 X-WR-CALNAME:München Kulturtipps
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
 BEGIN:DAYLIGHT
 TZOFFSETFROM:+0100
 TZOFFSETTO:+0200
 TZNAME:CEST
-DTSTART:19700329T020000
+DTSTART:19960331T020000
 RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
 END:DAYLIGHT
 BEGIN:STANDARD
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 TZNAME:CET
-DTSTART:19701025T030000
+DTSTART:19961027T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:20261001-taiwan-tagebuch-literaturhaus@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261001T190000
 DTEND;TZID=Europe/Berlin:20261001T203000
-SUMMARY:International Booker Prize: Das Taiwan-Tagebuch – Yáng Shuāng
- -Zǐ
+SUMMARY:International Booker Prize: Das Taiwan-Tagebuch – Yáng Shuāng-
+ Zǐ
 LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Lesung und Gespräch mit Yáng Shuāng-Zǐ\, Kai Strittmatter
-  und Karin Betz\; Dolmetschen aus dem Mandarin: Chang-Chen Tsao. Eintrit
- t 16 / 10 EUR\, Stream 8 EUR. Die veröffentlichte Seite nennt keine End
- zeit\; Endzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/international-boo
- ker-prize-das-taiwan-tagebuch/
+DESCRIPTION:Lesung und Gespräch mit Yáng Shuāng-Zǐ\, Kai Strittmatter 
+ und Karin Betz\; Dolmetschen aus dem Mandarin: Chang-Chen Tsao. Eintritt 
+ 16 / 10 EUR\, Stream 8 EUR. Die veröffentlichte Seite nennt keine Endzei
+ t\; Endzeit geschätzt.
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/international-book
+er-prize-das-taiwan-tagebuch/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -51,95 +51,93 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261002-fukuyama-literaturhaus@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261002T190000
 DTEND;TZID=Europe/Berlin:20261002T203000
 SUMMARY:Francis Fukuyama: Der letzte Mensch. Wohin steuert die Welt?
 LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Francis Fukuyama im Gespräch mit Cathrin Kahlweit über sein
-  neues Buch und die Entwicklung seiner Thesen seit 1992. Veranstaltungss
- prache Englisch. Eintritt 25 / 15 EUR\, Stream 8 EUR. Die veröffentlich
- te Seite nennt keine Endzeit\; Endzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/der-letzte-mensch
- -wohin-steuert-die-welt/
+DESCRIPTION:Francis Fukuyama im Gespräch mit Cathrin Kahlweit über sein 
+ neues Buch und die Entwicklung seiner Thesen seit 1992. Veranstaltungsspr
+ache Englisch. Eintritt 25 / 15 EUR\, Stream 8 EUR. Die veröffentlichte 
+ Seite nennt keine Endzeit\; Endzeit geschätzt.
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/der-letzte-mensch-
+ wohin-steuert-die-welt/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Francis Fukuyama: Der letzte Mensch. Wohin steuer
- t die Welt?
+DESCRIPTION:Erinnerung: Francis Fukuyama: Der letzte Mensch. Wohin steuert
+  die Welt?
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Francis Fukuyama: Der letzte Mensch. Wohin steuer
- t die Welt?
+DESCRIPTION:Erinnerung: Francis Fukuyama: Der letzte Mensch. Wohin steuert
+  die Welt?
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261003-orbit-belleparais@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261003T140000
 DTEND;TZID=Europe/Berlin:20261003T160000
 SUMMARY:Yvonne Wahl: Orbit – Finissage & Künstlerinnenführung
 LOCATION:BELLEPARAIS\, Schellingstraße 54\, 80799 München
-DESCRIPTION:Finissage von Yvonne Wahls dreiteiligem\, räumlich-fluidem A
- usstellungsformat. Führung gemeinsam mit Yvonne Wahl um 14 Uhr\, anschl
- ießend Kaffee und Kuchen\; Finissage ab 12 Uhr. Auf der Veranstaltungss
- eite ist kein Eintrittspreis oder Ticketverfahren ausgewiesen. Endzeit g
- eschätzt.
-URL:https://www.belleparais.com/exhibitions/current/ausst32-yvonne-wahl-1
- 3-8-26-3-10-26.html
+DESCRIPTION:Finissage von Yvonne Wahls dreiteiligem\, räumlich-fluidem Au
+sstellungsformat. Führung gemeinsam mit Yvonne Wahl um 14 Uhr\, anschlie
+ßend Kaffee und Kuchen\; Finissage ab 12 Uhr. Auf der Veranstaltungsseit
+e ist kein Eintrittspreis oder Ticketverfahren ausgewiesen. Endzeit gesch
+ätzt.
+URL:https://www.belleparais.com/exhibitions/current/ausst32-yvonne-wahl-13
+ -8-26-3-10-26.html
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnen
- führung
+DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnenf
+ührung
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnen
- führung
+DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnenf
+ührung
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261003-cladi-schwere-reiter@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261003T220000
 SUMMARY:der/gelbe/klang: Vykintas Baltakas – Cladi I–V
 LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Uraufführung des vollständigen Cladi-Zyklus von Vykintas Ba
- ltakas durch der/gelbe/klang\, mit Ensemble und Elektronik. Eintritt 18 
- / 12 EUR. Endzeit geschätzt.
-URL:https://schwerereiter.de/?tribe_events=der-gelbe-klang-vykintas-balta
-kas-cladi-i-v
+DESCRIPTION:Uraufführung des vollständigen Cladi-Zyklus von Vykintas Bal
+ takas durch der/gelbe/klang\, mit Ensemble und Elektronik. Eintritt 18 / 
+ 12 EUR. Endzeit geschätzt.
+URL:https://schwerereiter.de/?tribe_events=der-gelbe-klang-vykintas-baltak
+as-cladi-i-v
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–
- V
+DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–V
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–
- V
+DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–V
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261004-convivium-talk-talk@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261004T150000
 DTEND;TZID=Europe/Berlin:20261004T170000
 SUMMARY:talk talk: CONVIVIUM – Nahrungssysteme am Limit
-LOCATION:Architekturmuseum der TUM\, Pinakothek der Moderne\, Barer Stra
- ße 40\, 80333 München
-DESCRIPTION:Museumsgespräche zur Ausstellung CONVIVIUM über Nahrungssys
- teme\, Architektur\, Produktion\, Transport und Konsum. 15–17 Uhr\, Ei
- nstieg jederzeit. Teilnahme im Museumseintritt enthalten\; sonntags regu
- lär 1 EUR\, unter 18 frei. Begrenzte Teilnahmeplätze\, ohne Teilnahmet
- icket.
+LOCATION:Architekturmuseum der TUM\, Pinakothek der Moderne\, Barer Straß
+e 40\, 80333 München
+DESCRIPTION:Museumsgespräche zur Ausstellung CONVIVIUM über Nahrungssyst
+eme\, Architektur\, Produktion\, Transport und Konsum. 15–17 Uhr\, Eins
+tieg jederzeit. Teilnahme im Museumseintritt enthalten\; sonntags regulä
+r 1 EUR\, unter 18 frei. Begrenzte Teilnahmeplätze\, ohne Teilnahmeticke
+t.
 URL:https://www.pinakothek-der-moderne.de/ausstellungen/convivium/
 BEGIN:VALARM
 TRIGGER:-P1D
@@ -154,16 +152,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261004-orff-techno-weltmusik@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261004T190000
 DTEND;TZID=Europe/Berlin:20261004T213000
 SUMMARY:Orff Meets Techno & Weltmusik
-LOCATION:Isarphilharmonie\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81
- 379 München
-DESCRIPTION:17. Orff-Tage mit LBT Techno Piano Trio\, Enkhjargal Dandarva
- anchig (Morin khuur und Gesang)\, Chor\, Streichquintett\, Klavierduo un
- d Percussion-Ensemble der Bayerischen Philharmonie. Tickets ab 41\,60 EU
- R.
+LOCATION:Isarphilharmonie\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 813
+79 München
+DESCRIPTION:17. Orff-Tage mit LBT Techno Piano Trio\, Enkhjargal Dandarvaa
+nchig (Morin khuur und Gesang)\, Chor\, Streichquintett\, Klavierduo und 
+ Percussion-Ensemble der Bayerischen Philharmonie. Tickets ab 41\,60 EUR.
 URL:https://www.gasteig.de/veranstaltungen/carl-orff-tage-2026/
 BEGIN:VALARM
 TRIGGER:-P1D
@@ -178,72 +175,71 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261006-tourismus-nsdoku@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261006T190000
 DTEND;TZID=Europe/Berlin:20261006T203000
 SUMMARY:wo zeit stehen bleibt. vom tourismus und seiner gewalt
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 803
- 33 München
-DESCRIPTION:Lesung und Gespräch mit Sinthujan Varatharajah und Asal Dard
- an über ungleiche Mobilität\, Reisen und modernen Tourismus. Eintritt 
- frei. Die veröffentlichte Seite nennt keine Endzeit\; Endzeit geschätz
- t.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/wo-zeit-stehen-ble
- ibt-vom-tourismus-und-seiner-gewalt-2705
+LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 8033
+3 München
+DESCRIPTION:Lesung und Gespräch mit Sinthujan Varatharajah und Asal Darda
+n über ungleiche Mobilität\, Reisen und modernen Tourismus. Eintritt fr
+ei. Die veröffentlichte Seite nennt keine Endzeit\; Endzeit geschätzt.
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/wo-zeit-stehen-blei
+bt-vom-tourismus-und-seiner-gewalt-2705
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner g
- ewalt
+DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner ge
+walt
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner g
- ewalt
+DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner ge
+walt
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261006-trotzdem-import-export@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261006T200000
 DTEND;TZID=Europe/Berlin:20261006T223000
 SUMMARY:TROTZDEM: LEYA + Violeta García & Hora Lunga + PILLBERT
 LOCATION:Import Export\, Schwere-Reiter-Straße 2h\, 80636 München
-DESCRIPTION:Kuratierte Reihe mit wechselnden räumlichen Höranordnungen 
- zwischen Listening Session und Konzert. LEYA (Harfe\, Stimme\, Violine)\
- , Violeta García & Hora Lunga sowie PILLBERT mit Musik\, Video\, Perfor
- mance und Field Recordings. Einlass 19 Uhr\, Beginn 20 Uhr. VVK 14 EUR z
- zgl. Gebühren\, Abendkasse 16 EUR\, ermäßigt 12 EUR\; KulturRaum-Kont
- ingent für Menschen mit geringem Einkommen. Endzeit geschätzt.
+DESCRIPTION:Kuratierte Reihe mit wechselnden räumlichen Höranordnungen z
+wischen Listening Session und Konzert. LEYA (Harfe\, Stimme\, Violine)\, 
+ Violeta García & Hora Lunga sowie PILLBERT mit Musik\, Video\, Performan
+ce und Field Recordings. Einlass 19 Uhr\, Beginn 20 Uhr. VVK 14 EUR zzgl.
+  Gebühren\, Abendkasse 16 EUR\, ermäßigt 12 EUR\; KulturRaum-Kontingen
+t für Menschen mit geringem Einkommen. Endzeit geschätzt.
 URL:https://import-export.cc/event/trotzdem-2/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + P
- ILLBERT
+DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + PI
+LLBERT
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + P
- ILLBERT
+DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + PI
+LLBERT
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20261007-offene-gesellschaft-gasteig@openai
-DTSTAMP:20261001T073247Z
+DTSTAMP:20261001T095823Z
 DTSTART;TZID=Europe/Berlin:20261007T193000
 DTEND;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Wege in eine offene Gesellschaft – Paneltalk
-LOCATION:Projektor\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81379 Mü
- nchen
-DESCRIPTION:Paneltalk mit Gilda Sahebi\, Anne Rabe und Dr. Britta Schelle
- nberg über gesellschaftliche Entwicklungen\, Polarisierung und Demokrat
- ie\; Moderation Tuncay Acar. Eintritt frei. Die veröffentlichte Seite n
- ennt keine Endzeit\; Endzeit geschätzt.
-URL:https://www.gasteig.de/veranstaltungen/wege-in-eine-offene-gesellscha
- ft-paneltalk/
+LOCATION:Projektor\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81379 Mün
+chen
+DESCRIPTION:Paneltalk mit Gilda Sahebi\, Anne Rabe und Dr. Britta Schellen
+berg über gesellschaftliche Entwicklungen\, Polarisierung und Demokratie
+\; Moderation Tuncay Acar. Eintritt frei. Die veröffentlichte Seite nenn
+t keine Endzeit\; Endzeit geschätzt.
+URL:https://www.gasteig.de/veranstaltungen/wege-in-eine-offene-gesellschaf
+t-paneltalk/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
