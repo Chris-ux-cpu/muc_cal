@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//Muenchen Kulturtipps//DE
+PRODID:-//OpenAI//Muenchner Veranstaltungstipps//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:München Kulturtipps
+X-WR-CALNAME:Münchner Veranstaltungstipps
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
@@ -23,229 +23,215 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261001-taiwan-tagebuch-literaturhaus@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261001T190000
-DTEND;TZID=Europe/Berlin:20261001T203000
-SUMMARY:International Booker Prize: Das Taiwan-Tagebuch – Yáng Shuāng-
- Zǐ
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Lesung und Gespräch mit Yáng Shuāng-Zǐ\, Kai Strittmatter 
- und Karin Betz\; Dolmetschen aus dem Mandarin: Chang-Chen Tsao. Eintritt 
- 16 / 10 EUR\, Stream 8 EUR. Die veröffentlichte Seite nennt keine Endzei
- t\; Endzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/international-book
- er-prize-das-taiwan-tagebuch/
+UID:20261008-people-gone-mad-nsdoku@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261008T190000
+DTEND;TZID=Europe/Berlin:20261008T203000
+SUMMARY:People Gone Mad – Moshe Zimmermann und Norbert Frei
+LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
+  München
+DESCRIPTION:Moshe Zimmermann und Norbert Frei sprechen über gefährdete De
+ mokratien und historische Wendepunkte. Eintritt frei. Endzeit geschätzt.
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/people-gone-mad-wie-
+ die-demokratie-sich-selbst-zerstoert-2706
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: International Booker Prize: Das Taiwan-Tagebuch 
- – Yáng Shuāng-Zǐ
+DESCRIPTION:Erinnerung: People Gone Mad – Moshe Zimmermann und Norbert Fr
+ ei
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: International Booker Prize: Das Taiwan-Tagebuch 
- – Yáng Shuāng-Zǐ
+DESCRIPTION:Erinnerung: People Gone Mad – Moshe Zimmermann und Norbert Fr
+ ei
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261002-fukuyama-literaturhaus@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261002T190000
-DTEND;TZID=Europe/Berlin:20261002T203000
-SUMMARY:Francis Fukuyama: Der letzte Mensch. Wohin steuert die Welt?
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Francis Fukuyama im Gespräch mit Cathrin Kahlweit über sein 
- neues Buch und die Entwicklung seiner Thesen seit 1992. Veranstaltungsspr
- ache Englisch. Eintritt 25 / 15 EUR\, Stream 8 EUR. Die veröffentlichte 
- Seite nennt keine Endzeit\; Endzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/der-letzte-mensch-
- wohin-steuert-die-welt/
+UID:20261009-musica-viva-genesis@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261009T200000
+DTEND;TZID=Europe/Berlin:20261009T220000
+SUMMARY:musica viva: Genesis – BRSO / Matthias Pintscher
+LOCATION:Herkulessaal der Residenz\, Residenzstraße 1\, 80333 München
+DESCRIPTION:Sieben neue Orchesterwerke zur biblischen Genesis als europäis
+ che Erstaufführungen. Außerdem Kaija Saariaho. Einführung ab 18:45 Uhr.
+  Tickets 15–44 EUR\, U30 10 EUR.
+URL:https://www.br-musica-viva.de/konzerte/brso-mit-matthias-pintscher-2/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Francis Fukuyama: Der letzte Mensch. Wohin steuert
-  die Welt?
+DESCRIPTION:Erinnerung: musica viva: Genesis – BRSO / Matthias Pintscher
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Francis Fukuyama: Der letzte Mensch. Wohin steuert
-  die Welt?
+DESCRIPTION:Erinnerung: musica viva: Genesis – BRSO / Matthias Pintscher
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261003-orbit-belleparais@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261003T140000
-DTEND;TZID=Europe/Berlin:20261003T160000
-SUMMARY:Yvonne Wahl: Orbit – Finissage & Künstlerinnenführung
-LOCATION:BELLEPARAIS\, Schellingstraße 54\, 80799 München
-DESCRIPTION:Finissage von Yvonne Wahls dreiteiligem\, räumlich-fluidem Au
- sstellungsformat. Führung gemeinsam mit Yvonne Wahl um 14 Uhr\, anschlie
- ßend Kaffee und Kuchen\; Finissage ab 12 Uhr. Auf der Veranstaltungsseit
- e ist kein Eintrittspreis oder Ticketverfahren ausgewiesen. Endzeit gesch
- ätzt.
-URL:https://www.belleparais.com/exhibitions/current/ausst32-yvonne-wahl-13
- -8-26-3-10-26.html
+UID:20261010-stripping-bolero@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261010T180000
+DTEND;TZID=Europe/Berlin:20261010T191000
+SUMMARY:RODEO: Stripping Bolero – Rykena/Jüngst
+LOCATION:schwere reiter Halle\, Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Tanzperformance ausgehend von Ravels Boléro mit Gebärdenpoesi
+ e und Audiodeskription. Nachgespräch ab 19:30 Uhr. Tickets 6–36 EUR.
+URL:https://rodeofestival.de/en/production/stripping-bolero/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnenf
- ührung
-END:VALARM
-BEGIN:VALARM
-TRIGGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Yvonne Wahl: Orbit – Finissage & Künstlerinnenf
- ührung
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261003-cladi-schwere-reiter@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261003T200000
-DTEND;TZID=Europe/Berlin:20261003T220000
-SUMMARY:der/gelbe/klang: Vykintas Baltakas – Cladi I–V
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Uraufführung des vollständigen Cladi-Zyklus von Vykintas Bal
- takas durch der/gelbe/klang\, mit Ensemble und Elektronik. Eintritt 18 / 
- 12 EUR. Endzeit geschätzt.
-URL:https://schwerereiter.de/?tribe_events=der-gelbe-klang-vykintas-baltak
- as-cladi-i-v
-BEGIN:VALARM
-TRIGGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–V
+DESCRIPTION:Erinnerung: RODEO: Stripping Bolero – Rykena/Jüngst
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: der/gelbe/klang: Vykintas Baltakas – Cladi I–V
+DESCRIPTION:Erinnerung: RODEO: Stripping Bolero – Rykena/Jüngst
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261004-convivium-talk-talk@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261004T150000
-DTEND;TZID=Europe/Berlin:20261004T170000
-SUMMARY:talk talk: CONVIVIUM – Nahrungsssysteme am Limit
-LOCATION:Architekturmuseum der TUM\, Pinakothek der Moderne\, Barer Straß
- e 40\, 80333 München
-DESCRIPTION:Museumsgespräche zur Ausstellung CONVIVIUM über Nahrungssyst
- eme\, Architektur\, Produktion\, Transport und Konsum. 15–17 Uhr\, Eins
- tieg jederzeit. Teilnahme im Museumseintritt enthalten\; sonntags regulä
- r 1 EUR\, unter 18 frei. Begrenzte Teilnahmeplätze\, ohne Teilnahmeticke
- t.
-URL:https://www.pinakothek-der-moderne.de/ausstellungen/convivium/
+UID:20261010-digitalanalog-muffatwerk@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261010T203000
+DTEND;TZID=Europe/Berlin:20261011T040000
+SUMMARY:25 Jahre Digitalanalog – audiovisuelle Kunstnacht
+LOCATION:Muffatwerk\, Zellstraße 4\, 81667 München
+DESCRIPTION:Festival mit auf Konzerte abgestimmter Videokunst\, audiovisuel
+ len Performances und Installationen. Eintritt frei. Einlass 19:30 Uhr\, En
+ de Sonntag 04:00 Uhr.
+URL:https://www.muffatwerk.de/de/events/view/8234/25-jahre-digitalanalog-mu
+ sik-festival
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: talk talk: CONVIVIUM – Nahrungsssysteme am Limit
-END:VALARM
-BEGIN:VALARM
-TRIGGER:--PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: talk talk: CONVIVIUM – Nahrungssysteme am Limit
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261004-orff-techno-weltmusik@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261004T190000
-DTEND;TZID=Europe/Berlin:20261004T213000
-SUMMARY:Orff Meets Techno & Weltmusik
-LOCATION:Isarphilharmonie\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 813
- 79 München
-DESCRIPTION:17. Orff-Tage mit LBT Techno Piano Trio\, Enkhjargal Dandarvaa
- nchig (Morin khuur und Gesang)\, Chor\, Streichquintett\, Klavierduo und 
- Percussion-Ensemble der Bayerischen Philharmonie. Tickets ab 41\,60 EUR.
-URL:https://www.gasteig.de/veranstaltungen/carl-orff-tage-2026/
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Orff Meets Techno & Weltmusik
+DESCRIPTION:Erinnerung: 25 Jahre Digitalanalog – audiovisuelle Kunstnacht
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Orff Meets Techno & Weltmusik
+DESCRIPTION:Erinnerung: 25 Jahre Digitalanalog – audiovisuelle Kunstnacht
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261006-tourismus-nsdoku@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261006T190000
-DTEND;TZID=Europe/Berlin:20261006T203000
-SUMMARY:wo zeit stehen bleibt. vom tourismus und seiner gewalt
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 8033
- 3 München
-DESCRIPTION:Lesung und Gespräch mit Sinthujan Varatharajah und Asal Darda
- n über ungleiche Mobilität\, Reisen und modernen Tourismus. Eintritt fr
- ei. Die veröffentlichte Seite nennt keine Endzeit\; Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/wo-zeit-stehen-blei
- bt-vom-tourismus-und-seiner-gewalt-2705
+UID:20261011-making-of-an-animal@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261011T200000
+DTEND;TZID=Europe/Berlin:20261011T210000
+SUMMARY:RODEO: Making of an Animal – Quindell Orton
+LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
+DESCRIPTION:Tanzperformance mit Bewegung\, Video und Live-Sounddubbing übe
+ r die Grenze von Mensch und Tier\; Nachgespräch im Anschluss. Tickets 6
+ –36 EUR.
+URL:https://rodeofestival.de/production/making-of-an-animal-they-are-more-a
+ fraid-of-you-than-you-are-of-them-ua/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner ge
- walt
+DESCRIPTION:Erinnerung: RODEO: Making of an Animal – Quindell Orton
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: wo zeit stehen bleibt. vom tourismus und seiner ge
- walt
+DESCRIPTION:Erinnerung: RODEO: Making of an Animal – Quindell Orton
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261006-trotzdem-import-export@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261006T200000
-DTEND;TZID=Europe/Berlin:20261006T223000
-SUMMARY:TROTZDEM: LEYA + Violeta García & Hora Lunga + PILLBERT
-LOCATION:Import Export\, Schwere-Reiter-Straße 2h\, 80636 München
-DESCRIPTION:Kuratierte Reihe mit wechselnden räumlichen Höranordnungen zwischen Listening Session und Konzert. LEYA (Harfe\, Stimme\, Violine)\, 
- Violeta García & Hora Lunga sowie PILLBERT mit Musik\, Video\, Performance und Field Recordings. Einlass 19 Uhr\, Beginn 20 Uhr. VVK 14 EUR zzgl.
-  Gebühren\, Abendkasse 16 EUR\, ermäßigt 12 EUR\; KulturRaum-Kontingent für Menschen mit geringem Einkommen. Endzeit geschätzt.
-URL:https://import-export.cc/event/trotzdem-2/
+UID:20261012-symbiosis-rodeo@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261012T200000
+DTEND;TZID=Europe/Berlin:20261012T210000
+SUMMARY:RODEO: Symbiosis – Kolja Huneck / Luuk Brantjes
+LOCATION:Kuppelzelt\, Frei-Otto-Straße\, Kreativquartier\, 80797 München
+DESCRIPTION:Zeitgenössischer Zirkus\, Objekttheater und Klang in einem spe
+ ziell konstruierten schwarzen Kuppelzelt. Tickets 6–36 EUR.
+URL:https://rodeofestival.de/production/symbiosis-2/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + PI
- LL$BIRT
+DESCRIPTION:Erinnerung: RODEO: Symbiosis – Kolja Huneck / Luuk Brantjes
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: TROTZDEM: LEYA + Violeta García & Hora Lunga + PI
- LLBERT
+DESCRIPTION:Erinnerung: RODEO: Symbiosis – Kolja Huneck / Luuk Brantjes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261007-offene-gesellschaft-gasteig@openai
-DTSTAMP:20261001T095823Z
-DTSTART;TZID=Europe/Berlin:20261007T193000
-DTEND;TZID=Europe/Berlin:20261007T210000
-SUMMARY:Wege in eine offene Gesellschaft – Paneltalk
-LOCATION:Projektor\, Gasteig HP8\, Hans-Preißinger-Straße 8\, 81379 Mün
- chen
-DESCRIPTION:Paneltalk mit Gilda Sahebi\, Anne Rabe und Dr. Britta Schellen
- berg über gesellschaftliche Entwicklungen\, Polarisierung und Demokratie
- \; Moderation Tuncay Acar. Eintritt frei. Die veröffentlichte Seite nenn
- t keine Endzeit\; Endzeit geschätzt.
-URL:https://www.gasteig.de/veranstaltungen/wege-in-eine-offene-gesellschaf
- t-paneltalk/
+UID:20261013-theresienstadt-hajkova@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261013T190000
+DTEND;TZID=Europe/Berlin:20261013T203000
+SUMMARY:Theresienstadt – Gespräch mit Anna Hájková und Franziska Davie
+ s
+LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
+  München
+DESCRIPTION:Gespräch über Sozial-\, Geschlechter- und Kulturgeschichte de
+ s Ghettos Theresienstadt auf Basis umfangreicher Archivarbeit. Eintritt fr
+ ei. Endzeit geschätzt.
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/wie-war-das-leben-in
+ -theresienstadt-nachdenken-ueber-die-juedische-holocaustgeschichte-2707
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Wege in eine offene Gesellschaft – Paneltalk
+DESCRIPTION:Erinnerung: Theresienstadt – Gespräch mit Anna Hájková und
+  Franziska Davies
 END:VALARM
 BEGIN:VALARM
-TRIGGGER:-PT2H
+TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Wege in eine offene Gesellschaft – Paneltalk
+DESCRIPTION:Erinnerung: Theresienstadt – Gespräch mit Anna Hájková und
+  Franziska Davies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-ernst-grube-nsdoku@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261014T180000
+DTEND;TZID=Europe/Berlin:20261014T193000
+SUMMARY:Zeit heilt keine Wunden – Ernst Grube und Thomas Rink
+LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
+  München
+DESCRIPTION:Zeitzeuge Ernst Grube im Gespräch über seine Lebensgeschichte
+ \, Erinnerungskultur und die Graphic Novel zu seinem Leben. Eintritt frei.
+  Endzeit geschätzt.
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/zeit-heilt-keine-wun
+ den-das-leben-des-ernst-grube-2654
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Zeit heilt keine Wunden – Ernst Grube und Thomas 
+ Rink
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Zeit heilt keine Wunden – Ernst Grube und Thomas 
+ Rink
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-der-soldat-warner@chatgpt
+DTSTAMP:20261008T062513Z
+DTSTART;TZID=Europe/Berlin:20261014T190000
+DTEND;TZID=Europe/Berlin:20261014T195000
+SUMMARY:RODEO: Der Soldat. Ein Übergangsritual – Julian Warner
+LOCATION:Kuppelzelt\, Frei-Otto-Straße\, Kreativquartier\, 80797 München
+DESCRIPTION:Performance von Julian Warner mit Sprache\, Akkordeon und Live-
+ Schlagzeug\, inspiriert von Frantz Fanon. Nachgespräch im Anschluss. Tick
+ ets 6–36 EUR.
+URL:https://rodeofestival.de/production/der-soldat-ein-uebergangsritual/
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: RODEO: Der Soldat. Ein Übergangsritual – Julian 
+ Warner
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: RODEO: Der Soldat. Ein Übergangsritual – Julian 
+ Warner
 END:VALARM
 END:VEVENT
 END:VCALENDAR
