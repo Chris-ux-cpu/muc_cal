@@ -8,230 +8,263 @@ BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
 BEGIN:DAYLIGHT
+DTSTART:19960331T020000
 TZOFFSETFROM:+0100
 TZOFFSETTO:+0200
 TZNAME:CEST
-DTSTART:19960331T020000
 RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
 END:DAYLIGHT
 BEGIN:STANDARD
+DTSTART:19961027T030000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 TZNAME:CET
-DTSTART:19961027T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261008-people-gone-mad-nsdoku@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261008T190000
-DTEND;TZID=Europe/Berlin:20261008T203000
-SUMMARY:People Gone Mad – Moshe Zimmermann und Norbert Frei
+UID:20261015-zwischen-uns-liegt-august@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261015T190000
+DTEND;TZID=Europe/Berlin:20261015T203000
+SUMMARY:Fikri Anıl Altıntaş: Zwischen uns liegt August
 LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
   München
-DESCRIPTION:Moshe Zimmermann und Norbert Frei sprechen über gefährdete De
- mokratien und historische Wendepunkte. Eintritt frei. Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/people-gone-mad-wie-
- die-demokratie-sich-selbst-zerstoert-2706
+DESCRIPTION:Lesung mit Fikri Anıl Altıntaş über Familie\, Erinnerungen 
+ und deutsch-türkische Geschichte. Eintritt frei. Die veröffentlichte Sei
+ te nennt keine Endzeit\; Endzeit geschätzt.
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/zwischen-uns-liegt-a
+ ugust-2708
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: People Gone Mad – Moshe Zimmermann und Norbert Fr
- ei
+DESCRIPTION:Erinnerung: Fikri Anıl Altıntaş: Zwischen uns liegt August
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: People Gone Mad – Moshe Zimmermann und Norbert Fr
- ei
+DESCRIPTION:Erinnerung: Fikri Anıl Altıntaş: Zwischen uns liegt August
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261009-musica-viva-genesis@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261009T200000
-DTEND;TZID=Europe/Berlin:20261009T220000
-SUMMARY:musica viva: Genesis – BRSO / Matthias Pintscher
-LOCATION:Herkulessaal der Residenz\, Residenzstraße 1\, 80333 München
-DESCRIPTION:Sieben neue Orchesterwerke zur biblischen Genesis als europäis
- che Erstaufführungen. Außerdem Kaija Saariaho. Einführung ab 18:45 Uhr.
-  Tickets 15–44 EUR\, U30 10 EUR.
-URL:https://www.br-musica-viva.de/konzerte/brso-mit-matthias-pintscher-2/
+UID:20261015-yoldas-rodeo@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261015T200000
+DTEND;TZID=Europe/Berlin:20261015T211500
+SUMMARY:RODEO: Yoldaş – Frauen\, die einander halten
+LOCATION:schwere reiter Halle\, Dachauer Straße 114\, 80636 München
+DESCRIPTION:Musikalisches Dokumentartheater von Nihan Devecioğlu über tü
+ rkeistämmige Arbeiterinnen im BMW-Werk\; Stimmen\, Archivfilm und Fabrikk
+ länge. Anschließend gemeinsames Gespräch SOHBET. Tickets 6–36 EUR.
+URL:https://rodeofestival.de/production/yoldas-frauen-die-einander-halten/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: musica viva: Genesis – BRSO / Matthias Pintscher
+DESCRIPTION:Erinnerung: RODEO: Yoldaş – Frauen\, die einander halten
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: musica viva: Genesis – BRSO / Matthias Pintscher
+DESCRIPTION:Erinnerung: RODEO: Yoldaş – Frauen\, die einander halten
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261010-stripping-bolero@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261010T180000
-DTEND;TZID=Europe/Berlin:20261010T191000
-SUMMARY:RODEO: Stripping Bolero – Rykena/Jüngst
-LOCATION:schwere reiter Halle\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Tanzperformance ausgehend von Ravels Boléro mit Gebärdenpoesi
- e und Audiodeskription. Nachgespräch ab 19:30 Uhr. Tickets 6–36 EUR.
-URL:https://rodeofestival.de/en/production/stripping-bolero/
+UID:20261016-belleparais-maria-reuter@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261016T180000
+DTEND;TZID=Europe/Berlin:20261016T200000
+SUMMARY:BelleParais: Maria Reuter / Antoni Cumella – Ausstellungseröffnu
+ ng
+LOCATION:BelleParais\, Schellingstraße 54\, 80799 München
+DESCRIPTION:Eröffnung zur Open Art: Maria Reuter mit White Paintings und B
+ ildteppichen\, Antoni Cumella mit Keramik. Preis bzw. Eintrittsregelung ni
+ cht veröffentlicht. Keine Endzeit angegeben\; Endzeit geschätzt.
+URL:https://www.belleparais.com/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Stripping Bolero – Rykena/Jüngst
+DESCRIPTION:Erinnerung: BelleParais: Maria Reuter / Antoni Cumella – Auss
+ tellungseröffnung
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Stripping Bolero – Rykena/Jüngst
+DESCRIPTION:Erinnerung: BelleParais: Maria Reuter / Antoni Cumella – Auss
+ tellungseröffnung
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261010-digitalanalog-muffatwerk@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261010T203000
-DTEND;TZID=Europe/Berlin:20261011T040000
-SUMMARY:25 Jahre Digitalanalog – audiovisuelle Kunstnacht
-LOCATION:Muffatwerk\, Zellstraße 4\, 81667 München
-DESCRIPTION:Festival mit auf Konzerte abgestimmter Videokunst\, audiovisuel
- len Performances und Installationen. Eintritt frei. Einlass 19:30 Uhr\, En
- de Sonntag 04:00 Uhr.
-URL:https://www.muffatwerk.de/de/events/view/8234/25-jahre-digitalanalog-mu
- sik-festival
+UID:20261016-raub-und-besitz-rodeo@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261016T180000
+DTEND;TZID=Europe/Berlin:20261016T190000
+SUMMARY:RODEO: Ya Te Yan Ya Min – Raub und Besitz
+LOCATION:PATHOS theater\, Dachauer Straße 110d\, 80636 München
+DESCRIPTION:Vielsprachiges politisches Theater mit Songs\, Stand-up\, Agitp
+ rop und Video über Land\, Geld\, Sprache und Deutungshoheit. Nachgespräc
+ h im Anschluss. Tickets 6–36 EUR.
+URL:https://rodeofestival.de/production/ya-te-yan-ya-min-bizim-olan-raub-un
+ d-besitz-is-it-really-yours-2/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: 25 Jahre Digitalanalog – audiovisuelle Kunstnacht
+DESCRIPTION:Erinnerung: RODEO: Ya Te Yan Ya Min – Raub und Besitz
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: 25 Jahre Digitalanalog – audiovisuelle Kunstnacht
+DESCRIPTION:Erinnerung: RODEO: Ya Te Yan Ya Min – Raub und Besitz
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261011-making-of-an-animal@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261011T200000
-DTEND;TZID=Europe/Berlin:20261011T210000
-SUMMARY:RODEO: Making of an Animal – Quindell Orton
+UID:20261017-lange-nacht-museen@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261017T180000
+DTEND;TZID=Europe/Berlin:20261018T010000
+SUMMARY:Lange Nacht der Münchner Museen
+LOCATION:Mehrere Museen in München\, z. B. Haus der Kunst\, Monacensia\, N
+ S-Dokumentationszentrum
+DESCRIPTION:Kuratierter Museumsabend: im Haus der Kunst Tomás Saraceno und
+  Steina/Videokunst\, dazu nach Wunsch Monacensia und NS-Dokumentationszent
+ rum. Museumsnacht bis 01 Uhr\, über 100 Häuser\, Shuttlebusse. Eintritt 
+ 20 EUR vor Ort\, 23\,50 EUR über München Ticket.
+URL:https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/die
+ -lange-nacht-auf-der-museumsinsel
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Lange Nacht der Münchner Museen
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Lange Nacht der Münchner Museen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017-bonappetitsixsixsix@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261017T193000
+DTEND;TZID=Europe/Berlin:20261017T202000
+SUMMARY:bonappétitsixsixsix – Alex Franz Zehetbauer
 LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
-DESCRIPTION:Tanzperformance mit Bewegung\, Video und Live-Sounddubbing übe
- r die Grenze von Mensch und Tier\; Nachgespräch im Anschluss. Tickets 6
- –36 EUR.
-URL:https://rodeofestival.de/production/making-of-an-animal-they-are-more-a
- fraid-of-you-than-you-are-of-them-ua/
+DESCRIPTION:Diabolische Solo-Narrenperformance mit bitterem Humor und Gesel
+ lschaftsbeobachtung im Rahmen 10 Jahre HochX / RODEO. Eintritt frei\, Begi
+ nn 19:30 Uhr\, Ende 20:20 Uhr.
+URL:https://rodeofestival.de/programm/kalender/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Making of an Animal – Quindell Orton
+DESCRIPTION:Erinnerung: bonappétitsixsixsix – Alex Franz Zehetbauer
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Making of an Animal – Quindell Orton
+DESCRIPTION:Erinnerung: bonappétitsixsixsix – Alex Franz Zehetbauer
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261012-symbiosis-rodeo@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261012T200000
-DTEND;TZID=Europe/Berlin:20261012T210000
-SUMMARY:RODEO: Symbiosis – Kolja Huneck / Luuk Brantjes
-LOCATION:Kuppelzelt\, Frei-Otto-Straße\, Kreativquartier\, 80797 München
-DESCRIPTION:Zeitgenössischer Zirkus\, Objekttheater und Klang in einem spe
- ziell konstruierten schwarzen Kuppelzelt. Tickets 6–36 EUR.
-URL:https://rodeofestival.de/production/symbiosis-2/
+UID:20261018-convivium-architekturmuseum@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261018T140000
+DTEND;TZID=Europe/Berlin:20261018T153000
+SUMMARY:CONVIVIUM – Nahrungssysteme am Limit (Ausstellungsbesuch)
+LOCATION:Architekturmuseum der TUM\, Pinakothek der Moderne\, Barer Straße
+  40\, 80333 München
+DESCRIPTION:Letzter Ausstellungstag\, über Lebensmittelproduktion\, Transp
+ ort\, Architektur und ökologische Grenzen globaler Nahrungssysteme. Vorge
+ schlagenes individuelles Zeitfenster 14:00–15:30 Uhr\; kein fest termini
+ erter Programmpunkt\, Beginn und Dauer frei wählbar. Sonntags Museumseint
+ ritt regulär 1 EUR.
+URL:https://www.architekturmuseum.de/ausstellungen/convivium/
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Symbiosis – Kolja Huneck / Luuk Brantjes
+DESCRIPTION:Erinnerung: CONVIVIUM – Nahrungssysteme am Limit (Ausstellung
+ sbesuch)
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Symbiosis – Kolja Huneck / Luuk Brantjes
+DESCRIPTION:Erinnerung: CONVIVIUM – Nahrungssysteme am Limit (Ausstellung
+ sbesuch)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261013-theresienstadt-hajkova@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261013T190000
-DTEND;TZID=Europe/Berlin:20261013T203000
-SUMMARY:Theresienstadt – Gespräch mit Anna Hájková und Franziska Davie
- s
+UID:20261019-julia-franck-rilke@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261019T190000
+DTEND;TZID=Europe/Berlin:20261019T203000
+SUMMARY:Julia Franck: Rilkes letzte Geliebte
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
+DESCRIPTION:Julia Franck liest und spricht mit Frieder von Ammon über ihr 
+ literarisches Porträt der Malerin Baladine Klossowska jenseits des Rilke-
+ Mythos. Eintritt 16 / 10 EUR\, Stream 8 EUR. Die veröffentlichte Seite ne
+ nnt keine sichere Endzeit\; Endzeit geschätzt.
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/rilkes-letzte-gelie
+ bte/
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Julia Franck: Rilkes letzte Geliebte
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Julia Franck: Rilkes letzte Geliebte
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020-wie-wir-erinnern@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261020T190000
+DTEND;TZID=Europe/Berlin:20261020T203000
+SUMMARY:Wie wir erinnern – Talya Feldman\, Lena Gorelik u. a.
 LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
   München
-DESCRIPTION:Gespräch über Sozial-\, Geschlechter- und Kulturgeschichte de
- s Ghettos Theresienstadt auf Basis umfangreicher Archivarbeit. Eintritt fr
- ei. Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/wie-war-das-leben-in
- -theresienstadt-nachdenken-ueber-die-juedische-holocaustgeschichte-2707
+DESCRIPTION:Diskussion mit Talya Feldman\, Lena Gorelik\, Pia Ihedioha und 
+ Céline Wendelgaß über pluralistische Erinnerungskultur\, Rechtsterroris
+ mus\, Literatur\, Kunst und digitale Formate. Eintritt frei. Keine veröff
+ entlichte Endzeit\; Endzeit geschätzt.
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/wie-wir-erinnern-273
+ 2
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Theresienstadt – Gespräch mit Anna Hájková und
-  Franziska Davies
+DESCRIPTION:Erinnerung: Wie wir erinnern – Talya Feldman\, Lena Gorelik u
+ . a.
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Theresienstadt – Gespräch mit Anna Hájková und
-  Franziska Davies
+DESCRIPTION:Erinnerung: Wie wir erinnern – Talya Feldman\, Lena Gorelik u
+ . a.
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261014-ernst-grube-nsdoku@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261014T180000
-DTEND;TZID=Europe/Berlin:20261014T193000
-SUMMARY:Zeit heilt keine Wunden – Ernst Grube und Thomas Rink
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
-  München
-DESCRIPTION:Zeitzeuge Ernst Grube im Gespräch über seine Lebensgeschichte
- \, Erinnerungskultur und die Graphic Novel zu seinem Leben. Eintritt frei.
-  Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/zeit-heilt-keine-wun
- den-das-leben-des-ernst-grube-2654
+UID:20261020-zafraan-iris-ter-schiphorst@chatgpt.muc-cal
+DTSTAMP:20261015T064822Z
+DTSTART;TZID=Europe/Berlin:20261020T200000
+DTEND;TZID=Europe/Berlin:20261020T220000
+SUMMARY:Zafraan Ensemble: Jubiläumskonzert für Iris ter Schiphorst
+LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Musik von Iris ter Schiphorst zwischen Avantgarde\, politischem
+  Ausdruck und Punk-/New-Wave-Erfahrung: Bassklarinette\, präpariertes Kla
+ vier\, Sampler und Ensemble. In Anwesenheit der Komponistin zum 70. Geburt
+ stag. Eintritt 22 / 16 EUR. Die Endzeit ist geschätzt.
+URL:https://schwerereiter.de/?tribe_events=zafraan-ensemble-jubilaeumskonze
+ rt-fuer-iris-ter-schiphorst
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Zeit heilt keine Wunden – Ernst Grube und Thomas 
- Rink
+DESCRIPTION:Erinnerung: Zafraan Ensemble: Jubiläumskonzert für Iris ter S
+ chiphorst
 END:VALARM
 BEGIN:VALARM
 TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Zeit heilt keine Wunden – Ernst Grube und Thomas 
- Rink
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261014-der-soldat-warner@chatgpt
-DTSTAMP:20261008T062513Z
-DTSTART;TZID=Europe/Berlin:20261014T190000
-DTEND;TZID=Europe/Berlin:20261014T195000
-SUMMARY:RODEO: Der Soldat. Ein Übergangsritual – Julian Warner
-LOCATION:Kuppelzelt\, Frei-Otto-Straße\, Kreativquartier\, 80797 München
-DESCRIPTION:Performance von Julian Warner mit Sprache\, Akkordeon und Live-
- Schlagzeug\, inspiriert von Frantz Fanon. Nachgespräch im Anschluss. Tick
- ets 6–36 EUR.
-URL:https://rodeofestival.de/production/der-soldat-ein-uebergangsritual/
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Der Soldat. Ein Übergangsritual – Julian 
- Warner
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Der Soldat. Ein Übergangsritual – Julian 
- Warner
+DESCRIPTION:Erinnerung: Zafraan Ensemble: Jubiläumskonzert für Iris ter S
+ chiphorst
 END:VALARM
 END:VEVENT
 END:VCALENDAR
