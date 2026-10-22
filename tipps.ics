@@ -1,21 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//Muenchner Veranstaltungstipps//DE
+PRODID:-//OpenAI//Muenchner Kulturtipps//DE
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Münchner Veranstaltungstipps
+METHOD:PUBLISH
+X-WR-CALNAME:Münchner Kulturtipps 22.–28. Oktober 2026
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
 BEGIN:DAYLIGHT
-DTSTART:19960331T020000
+DTSTART:19700329T020000
 TZOFFSETFROM:+0100
 TZOFFSETTO:+0200
 TZNAME:CEST
 RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
 END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:19961027T030000
+DTSTART:19701025T030000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 TZNAME:CET
@@ -23,248 +24,292 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261015-zwischen-uns-liegt-august@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261015T190000
-DTEND;TZID=Europe/Berlin:20261015T203000
-SUMMARY:Fikri Anıl Altıntaş: Zwischen uns liegt August
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
-  München
-DESCRIPTION:Lesung mit Fikri Anıl Altıntaş über Familie\, Erinnerungen 
- und deutsch-türkische Geschichte. Eintritt frei. Die veröffentlichte Sei
- te nennt keine Endzeit\; Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/zwischen-uns-liegt-a
- ugust-2708
+UID:muc-kulturtipps-20261022-01@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261022T190000
+DTEND;TZID=Europe/Berlin:20261022T201500
+SUMMARY:Geburt: Navid Kermani und Anton Gerzenberg – Meditationen über M
+ usik
+LOCATION:Bergson Kunstkraftwerk\, Freiraum\, Am Bergson Kunstkraftwerk 2\, 
+ 81245 München
+DESCRIPTION:Lesung von Navid Kermani und Klaviermusik von Chopin\, Schubert
+ \, Satie und Liszt. Tickets 28 / 44 / 56 EUR.
+URL:https://bergson.com/event/geburt-22-oktober-2026-1
 BEGIN:VALARM
-TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Fikri Anıl Altıntaş: Zwischen uns liegt August
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Geburt: Navid Kermani und Anton Gerzenberg – Medi
+ tationen über Musik
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Fikri Anıl Altıntaş: Zwischen uns liegt August
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Geburt: Navid Kermani und Anton Gerzenberg – Medi
+ tationen über Musik
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261015-yoldas-rodeo@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261015T200000
-DTEND;TZID=Europe/Berlin:20261015T211500
-SUMMARY:RODEO: Yoldaş – Frauen\, die einander halten
-LOCATION:schwere reiter Halle\, Dachauer Straße 114\, 80636 München
-DESCRIPTION:Musikalisches Dokumentartheater von Nihan Devecioğlu über tü
- rkeistämmige Arbeiterinnen im BMW-Werk\; Stimmen\, Archivfilm und Fabrikk
- länge. Anschließend gemeinsames Gespräch SOHBET. Tickets 6–36 EUR.
-URL:https://rodeofestival.de/production/yoldas-frauen-die-einander-halten/
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Yoldaş – Frauen\, die einander halten
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Yoldaş – Frauen\, die einander halten
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261016-belleparais-maria-reuter@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261016T180000
-DTEND;TZID=Europe/Berlin:20261016T200000
-SUMMARY:BelleParais: Maria Reuter / Antoni Cumella – Ausstellungseröffnu
- ng
-LOCATION:BelleParais\, Schellingstraße 54\, 80799 München
-DESCRIPTION:Eröffnung zur Open Art: Maria Reuter mit White Paintings und B
- ildteppichen\, Antoni Cumella mit Keramik. Preis bzw. Eintrittsregelung ni
- cht veröffentlicht. Keine Endzeit angegeben\; Endzeit geschätzt.
-URL:https://www.belleparais.com/
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: BelleParais: Maria Reuter / Antoni Cumella – Auss
- tellungseröffnung
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: BelleParais: Maria Reuter / Antoni Cumella – Auss
- tellungseröffnung
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261016-raub-und-besitz-rodeo@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261016T180000
-DTEND;TZID=Europe/Berlin:20261016T190000
-SUMMARY:RODEO: Ya Te Yan Ya Min – Raub und Besitz
-LOCATION:PATHOS theater\, Dachauer Straße 110d\, 80636 München
-DESCRIPTION:Vielsprachiges politisches Theater mit Songs\, Stand-up\, Agitp
- rop und Video über Land\, Geld\, Sprache und Deutungshoheit. Nachgespräc
- h im Anschluss. Tickets 6–36 EUR.
-URL:https://rodeofestival.de/production/ya-te-yan-ya-min-bizim-olan-raub-un
- d-besitz-is-it-really-yours-2/
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Ya Te Yan Ya Min – Raub und Besitz
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: RODEO: Ya Te Yan Ya Min – Raub und Besitz
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261017-lange-nacht-museen@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261017T180000
-DTEND;TZID=Europe/Berlin:20261018T010000
-SUMMARY:Lange Nacht der Münchner Museen
-LOCATION:Mehrere Museen in München\, z. B. Haus der Kunst\, Monacensia\, N
- S-Dokumentationszentrum
-DESCRIPTION:Kuratierter Museumsabend: im Haus der Kunst Tomás Saraceno und
-  Steina/Videokunst\, dazu nach Wunsch Monacensia und NS-Dokumentationszent
- rum. Museumsnacht bis 01 Uhr\, über 100 Häuser\, Shuttlebusse. Eintritt 
- 20 EUR vor Ort\, 23\,50 EUR über München Ticket.
-URL:https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/die
- -lange-nacht-auf-der-museumsinsel
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Lange Nacht der Münchner Museen
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Lange Nacht der Münchner Museen
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261017-bonappetitsixsixsix@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261017T193000
-DTEND;TZID=Europe/Berlin:20261017T202000
-SUMMARY:bonappétitsixsixsix – Alex Franz Zehetbauer
+UID:muc-kulturtipps-20261022-02@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261022T200000
+DTEND;TZID=Europe/Berlin:20261022T210500
+SUMMARY:Wunder.: La Manékine – Compagnie La Pendue
 LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
-DESCRIPTION:Diabolische Solo-Narrenperformance mit bitterem Humor und Gesel
- lschaftsbeobachtung im Rahmen 10 Jahre HochX / RODEO. Eintritt frei\, Begi
- nn 19:30 Uhr\, Ende 20:20 Uhr.
-URL:https://rodeofestival.de/programm/kalender/
+DESCRIPTION:Düster-poetische Grimm-Adaption mit Figurenspiel\, Livemusik\,
+  Schatten und Projektion. Französisch mit deutschen Übertiteln. Preis re
+ gulär 20 EUR\, ermäßigt 12 EUR.
+URL:https://figurentheater-gfp.de/festival-2026/programm/la-manekine.php
 BEGIN:VALARM
-TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: bonappétitsixsixsix – Alex Franz Zehetbauer
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: La Manékine – Compagnie La Pendue
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: bonappétitsixsixsix – Alex Franz Zehetbauer
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: La Manékine – Compagnie La Pendue
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261018-convivium-architekturmuseum@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261018T140000
-DTEND;TZID=Europe/Berlin:20261018T153000
-SUMMARY:CONVIVIUM – Nahrungssysteme am Limit (Ausstellungsbesuch)
-LOCATION:Architekturmuseum der TUM\, Pinakothek der Moderne\, Barer Straße
-  40\, 80333 München
-DESCRIPTION:Letzter Ausstellungstag\, über Lebensmittelproduktion\, Transp
- ort\, Architektur und ökologische Grenzen globaler Nahrungssysteme. Vorge
- schlagenes individuelles Zeitfenster 14:00–15:30 Uhr\; kein fest termini
- erter Programmpunkt\, Beginn und Dauer frei wählbar. Sonntags Museumseint
- ritt regulär 1 EUR.
-URL:https://www.architekturmuseum.de/ausstellungen/convivium/
+UID:muc-kulturtipps-20261022-03@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261023T190000
+DTEND;TZID=Europe/Berlin:20261023T210000
+SUMMARY:Sensing Sites – Auftakt zur dekolonialen Gedächtnissuche
+LOCATION:Gasteig HP8\, Saal X\, Hans-Preißinger-Straße 8\, 81379 München
+DESCRIPTION:Musik\, Performance und Diskussion zur Sichtbarmachung kolonial
+ er Spuren und Erinnerung im Stadtraum. Eintritt frei\, ohne Anmeldung. End
+ zeit geschätzt (vom Veranstalter nicht verlässlich veröffentlicht).
+URL:https://www.gasteig.de/veranstaltungen/?room=saal-x
 BEGIN:VALARM
-TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: CONVIVIUM – Nahrungssysteme am Limit (Ausstellung
- sbesuch)
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Sensing Sites – Auftakt zur dekolonialen Gedächt
+ nissuche
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: CONVIVIUM – Nahrungssysteme am Limit (Ausstellung
- sbesuch)
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Sensing Sites – Auftakt zur dekolonialen Gedächt
+ nissuche
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:20261019-julia-franck-rilke@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261019T190000
-DTEND;TZID=Europe/Berlin:20261019T203000
-SUMMARY:Julia Franck: Rilkes letzte Geliebte
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Julia Franck liest und spricht mit Frieder von Ammon über ihr 
- literarisches Porträt der Malerin Baladine Klossowska jenseits des Rilke-
- Mythos. Eintritt 16 / 10 EUR\, Stream 8 EUR. Die veröffentlichte Seite ne
- nnt keine sichere Endzeit\; Endzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/rilkes-letzte-gelie
- bte/
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Julia Franck: Rilkes letzte Geliebte
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Julia Franck: Rilkes letzte Geliebte
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261020-wie-wir-erinnern@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261020T190000
-DTEND;TZID=Europe/Berlin:20261020T203000
-SUMMARY:Wie wir erinnern – Talya Feldman\, Lena Gorelik u. a.
-LOCATION:NS-Dokumentationszentrum München\, Max-Mannheimer-Platz 1\, 80333
-  München
-DESCRIPTION:Diskussion mit Talya Feldman\, Lena Gorelik\, Pia Ihedioha und 
- Céline Wendelgaß über pluralistische Erinnerungskultur\, Rechtsterroris
- mus\, Literatur\, Kunst und digitale Formate. Eintritt frei. Keine veröff
- entlichte Endzeit\; Endzeit geschätzt.
-URL:https://www.nsdoku.de/programm/aktuell/detailseite/wie-wir-erinnern-273
- 2
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Wie wir erinnern – Talya Feldman\, Lena Gorelik u
- . a.
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT2H
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Wie wir erinnern – Talya Feldman\, Lena Gorelik u
- . a.
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:20261020-zafraan-iris-ter-schiphorst@chatgpt.muc-cal
-DTSTAMP:20261015T064822Z
-DTSTART;TZID=Europe/Berlin:20261020T200000
-DTEND;TZID=Europe/Berlin:20261020T220000
-SUMMARY:Zafraan Ensemble: Jubiläumskonzert für Iris ter Schiphorst
+UID:muc-kulturtipps-20261022-04@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261024T180000
+DTEND;TZID=Europe/Berlin:20261024T191000
+SUMMARY:Wunder.: ZEA MAYS – KMZ Kollektiv
 LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Musik von Iris ter Schiphorst zwischen Avantgarde\, politischem
-  Ausdruck und Punk-/New-Wave-Erfahrung: Bassklarinette\, präpariertes Kla
- vier\, Sampler und Ensemble. In Anwesenheit der Komponistin zum 70. Geburt
- stag. Eintritt 22 / 16 EUR. Die Endzeit ist geschätzt.
-URL:https://schwerereiter.de/?tribe_events=zafraan-ensemble-jubilaeumskonze
- rt-fuer-iris-ter-schiphorst
+DESCRIPTION:Dekoloniales Materialtheater über Mais\, globale Nahrungskette
+ n\, Monsanto/Bayer und indigene Anbaumethoden – mit Livekamera\, Musik u
+ nd Popcornmaschinen. Deutsch/Spanisch mit deutschen Übertiteln. Eintritt 
+ regulär 20 EUR\, ermäßigt 12 EUR.
+URL:https://figurentheater-gfp.de/festival-2026/programm/zea-mays.php
 BEGIN:VALARM
-TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Zafraan Ensemble: Jubiläumskonzert für Iris ter S
- chiphorst
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: ZEA MAYS – KMZ Kollektiv
 END:VALARM
 BEGIN:VALARM
-TRIGGER:-PT2H
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Zafraan Ensemble: Jubiläumskonzert für Iris ter S
- chiphorst
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: ZEA MAYS – KMZ Kollektiv
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-05@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261024T200000
+DTEND;TZID=Europe/Berlin:20261024T204500
+SUMMARY:Wunder.: Ma P’tite Dame – Claire Heggen
+LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
+DESCRIPTION:Wortloses Physical Theatre mit Puppen-Doppelgänger und Humor 
+ über das Altern. Nachgespräch im Anschluss (nicht in Endzeit enthalten).
+  Eintritt regulär 20 EUR\, ermäßigt 12 EUR.
+URL:https://figurentheater-gfp.de/festival-2026/programm/ma-p-tite-dame.php
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: Ma P’tite Dame – Claire Heggen
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: Ma P’tite Dame – Claire Heggen
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-06@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261025T120000
+DTEND;TZID=Europe/Berlin:20261025T133000
+SUMMARY:Wunder.: Taco Talk mit KMZ Kollektiv
+LOCATION:schwere reiter\, Foyer\, Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Frisch zubereiteter mexikanischer Taco und Gespräch mit dem KM
+ Z Kollektiv über Mais\, Kolonialismus\, Kunst und die Entstehung von ZEA 
+ MAYS. Offizielle Seite nennt Sonderpreis ohne Betrag\; teils als freier Ei
+ ntritt gelistet. Preis vor Buchung prüfen.
+URL:https://figurentheater-gfp.de/festival-2026/aktion-und-diskurs/taco-tal
+ k.php
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: Taco Talk mit KMZ Kollektiv
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: Taco Talk mit KMZ Kollektiv
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-07@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261025T190000
+DTEND;TZID=Europe/Berlin:20261025T200000
+SUMMARY:Wunder.: Mein Opa auf den Marshallinseln – Theater TIER
+LOCATION:PATHOS theater\, Dachauer Straße 110d\, 80636 München
+DESCRIPTION:Persönliche Archive\, Figuren und Video dekonstruieren die Fam
+ ilienlegende eines Kolonialisten und seine NS-Geschichte. Nachgespräch im
+  Anschluss. Eintritt regulär 20 EUR\, ermäßigt 12 EUR.
+URL:https://figurentheater-gfp.de/festival-2026/programm/mein-opa-auf-den-m
+ arshallinseln.php
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: Mein Opa auf den Marshallinseln – Theate
+ r TIER
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: Mein Opa auf den Marshallinseln – Theate
+ r TIER
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-08@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261026T190000
+DTEND;TZID=Europe/Berlin:20261026T220000
+SUMMARY:Eröffnung: Maria Jarema – Revolutionäre Kommissarin der Abstrak
+ tion
+LOCATION:Lenbachhaus\, Luisenstraße 33\, 80333 München
+DESCRIPTION:Eröffnung einer außergewöhnlichen ersten deutschen Werkschau
+  der polnischen Moderne: Malerei\, Monotypie\, Skulptur\, Bühnenbilder un
+ d politisch engagierte Kunst. Eintritt frei\, keine Anmeldung.
+URL:https://www.lenbachhaus.de/besuchen/kalender/termin/maria-jarema-19049
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Eröffnung: Maria Jarema – Revolutionäre Kommiss
+ arin der Abstraktion
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Eröffnung: Maria Jarema – Revolutionäre Kommiss
+ arin der Abstraktion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-09@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261027T190000
+DTEND;TZID=Europe/Berlin:20261027T201500
+SUMMARY:Wunder.: Android (Baujahr 1737) – Benno Heisel
+LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Witzig-beklemmende Performance über den automatischen Flötist
+ en von 1737 und drei Jahrhunderte Maschinenethik. Festival-Ticketpreis onl
+ ine nicht eindeutig ausgewiesen – vor Buchung prüfen. Endzeit geschätz
+ t (vom Veranstalter nicht verlässlich veröffentlicht).
+URL:https://figurentheater-gfp.de/festival-2026/programm.php
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: Android (Baujahr 1737) – Benno Heisel
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: Android (Baujahr 1737) – Benno Heisel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-10@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261027T190000
+DTEND;TZID=Europe/Berlin:20261027T203000
+SUMMARY:Salon Luitpold: Anmerkungen zum Antisemitismus – Nassehi und Wolf
+ fsohn
+LOCATION:Café Luitpold\, Brienner Straße 11\, 80333 München
+DESCRIPTION:Armin Nassehi und Michael Wolffsohn diskutieren die Funktion an
+ tisemitischer Denkfiguren in westlichen Gesellschaften. Ticketvarianten zw
+ ischen 6 und 52 EUR\, laut Veranstalter mit kostenloser Diskurs-Option ggf
+ . Systemgebühr.
+URL:https://www.cafe-luitpold.de/salon-luitpold-anmerkungen-zum-antisemitis
+ mus-27-10-2026-1900-uhr/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Salon Luitpold: Anmerkungen zum Antisemitismus – 
+ Nassehi und Wolffsohn
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Salon Luitpold: Anmerkungen zum Antisemitismus – 
+ Nassehi und Wolffsohn
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-11@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261028T190000
+DTEND;TZID=Europe/Berlin:20261028T203000
+SUMMARY:Täuschung – Lesung mit Adania Shibli
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
+DESCRIPTION:Lesung und Gespräch über die Erfahrung von Macht\, Erinnerung
+  und Verlust in Palästina. Moderation Lena Gorelik. Gespräch Englisch\, 
+ Lesung Deutsch. 16/10 EUR\; Stream 8 EUR. Endzeit geschätzt (vom Veransta
+ lter nicht verlässlich veröffentlicht).
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/taeuschung/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Täuschung – Lesung mit Adania Shibli
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Täuschung – Lesung mit Adania Shibli
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261022-12@calendar.chatgpt
+DTSTAMP:20261022T065440Z
+DTSTART;TZID=Europe/Berlin:20261028T200000
+DTEND;TZID=Europe/Berlin:20261028T205000
+SUMMARY:Wunder.: Kissing the Ashes – Klaipėda Puppet Theatre
+LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
+DESCRIPTION:Visuell-dokumentarisches Figurentheater über Kriegszerstörung
+  und Erinnerungslücken einer litauischen Stadt – mit Tanz\, Poesie und 
+ Sound. Litauisch mit deutschen Übertiteln. Regulär 20 EUR\, ermäßigt 1
+ 2 EUR.
+URL:https://figurentheater-gfp.de/festival-2026/programm/kissing-the-ashes.
+ php
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Wunder.: Kissing the Ashes – Klaipėda Puppet The
+ atre
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Wunder.: Kissing the Ashes – Klaipėda Puppet The
+ atre
 END:VALARM
 END:VEVENT
 END:VCALENDAR
