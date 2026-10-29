@@ -1,315 +1,427 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OpenAI//Muenchner Kulturtipps//DE
+PRODID:-//Muenchen Kulturtipps//ChatGPT Kalender 2026//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Münchner Kulturtipps 22.–28. Oktober 2026
+X-WR-CALNAME:Münchner Kulturtipps 29.10.–04.11.2026
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
 BEGIN:DAYLIGHT
-DTSTART:19700329T020000
 TZOFFSETFROM:+0100
 TZOFFSETTO:+0200
 TZNAME:CEST
+DTSTART:19700329T020000
 RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
 END:DAYLIGHT
 BEGIN:STANDARD
-DTSTART:19701025T030000
 TZOFFSETFROM:+0200
 TZOFFSETTO:+0100
 TZNAME:CET
+DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-01@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261022T190000
-DTEND;TZID=Europe/Berlin:20261022T201500
-SUMMARY:Geburt: Navid Kermani und Anton Gerzenberg – Meditationen über M
- usik
-LOCATION:Bergson Kunstkraftwerk\, Freiraum\, Am Bergson Kunstkraftwerk 2\, 
- 81245 München
-DESCRIPTION:Lesung von Navid Kermani und Klaviermusik von Chopin\, Schubert
- \, Satie und Liszt. Tickets 28 / 44 / 56 EUR.
-URL:https://bergson.com/event/geburt-22-oktober-2026-1
+UID:muc-kulturtipps-20261029-00-20261029T180000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261029T180000
+DTEND;TZID=Europe/Berlin:20261029T190000
+SUMMARY:Wunder.2026 – Ljubljana Puppet Theatre: Transport – Departure
+LOCATION:schwere reiter · Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Hyperrealistisches Miniaturtheater über die Flutkatastrophe 20
+ 23\, Umweltzerstörung und Erinnerung. Slowenisch mit deutschen Untertitel
+ n.\nPreis: Preis über Veranstalter/Ticketseite prüfen.\nEndzeit geschät
+ zt.\nVeranstaltungsseite: https://schwerereiter.de/?tribe_events=wunder-20
+ 26-ljubljana-puppet-theatre-transport-departure
+URL:https://schwerereiter.de/?tribe_events=wunder-2026-ljubljana-puppet-the
+ atre-transport-departure
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Geburt: Navid Kermani und Anton Gerzenberg – Medi
- tationen über Musik
+DESCRIPTION:Erinnerung: Wunder.2026 – Ljubljana Puppet Theatre: Transport
+  – Departure
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Geburt: Navid Kermani und Anton Gerzenberg – Medi
- tationen über Musik
+DESCRIPTION:Erinnerung: Wunder.2026 – Ljubljana Puppet Theatre: Transport
+  – Departure
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-02@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261022T200000
-DTEND;TZID=Europe/Berlin:20261022T210500
-SUMMARY:Wunder.: La Manékine – Compagnie La Pendue
-LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
-DESCRIPTION:Düster-poetische Grimm-Adaption mit Figurenspiel\, Livemusik\,
-  Schatten und Projektion. Französisch mit deutschen Übertiteln. Preis re
- gulär 20 EUR\, ermäßigt 12 EUR.
-URL:https://figurentheater-gfp.de/festival-2026/programm/la-manekine.php
+UID:muc-kulturtipps-20261029-01-20261029T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261029T190000
+DTEND;TZID=Europe/Berlin:20261029T210000
+SUMMARY:Kernenergie für den Klimaschutz? – Expertengespräch
+LOCATION:Katholische Akademie in Bayern · Mandlstraße 23\, 80802 München
+DESCRIPTION:Sachliche interdisziplinäre Debatte über Kernenergie und Klim
+ a.\nPreis: Eintritt frei.\nVeranstaltungsseite: https://kath-akademie-baye
+ rn.de/veranstaltung/kernenergie-fuer-den-klimaschutz/
+URL:https://kath-akademie-bayern.de/veranstaltung/kernenergie-fuer-den-klim
+ aschutz/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: La Manékine – Compagnie La Pendue
+DESCRIPTION:Erinnerung: Kernenergie für den Klimaschutz? – Expertengespr
+ äch
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: La Manékine – Compagnie La Pendue
+DESCRIPTION:Erinnerung: Kernenergie für den Klimaschutz? – Expertengespr
+ äch
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-03@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261023T190000
-DTEND;TZID=Europe/Berlin:20261023T210000
-SUMMARY:Sensing Sites – Auftakt zur dekolonialen Gedächtnissuche
-LOCATION:Gasteig HP8\, Saal X\, Hans-Preißinger-Straße 8\, 81379 München
-DESCRIPTION:Musik\, Performance und Diskussion zur Sichtbarmachung kolonial
- er Spuren und Erinnerung im Stadtraum. Eintritt frei\, ohne Anmeldung. End
- zeit geschätzt (vom Veranstalter nicht verlässlich veröffentlicht).
-URL:https://www.gasteig.de/veranstaltungen/?room=saal-x
+UID:muc-kulturtipps-20261029-02-20261030T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261030T190000
+DTEND;TZID=Europe/Berlin:20261030T213000
+SUMMARY:Salon Luitpold Musique – João Pedro Lopes Marques\, Gitarre
+LOCATION:Café Luitpold · Brienner Straße 11\, 80333 München
+DESCRIPTION:Junger portugiesischer Gitarrist zwischen Barock\, iberischer u
+ nd lateinamerikanischer Musik\; Rezital im Salon.\nPreis: 7\,50–52 €.
+ \nVeranstaltungsseite: https://www.cafe-luitpold.de/produkt/salon-luitpold
+ -musique-junge-kuenstler-klassische-gitarre-mit-joao-pedro-lopes-marques-3
+ 0-10-2026-19-uhr/
+URL:https://www.cafe-luitpold.de/produkt/salon-luitpold-musique-junge-kuens
+ tler-klassische-gitarre-mit-joao-pedro-lopes-marques-30-10-2026-19-uhr/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Sensing Sites – Auftakt zur dekolonialen Gedächt
- nissuche
+DESCRIPTION:Erinnerung: Salon Luitpold Musique – João Pedro Lopes Marque
+ s\, Gitarre
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Sensing Sites – Auftakt zur dekolonialen Gedächt
- nissuche
+DESCRIPTION:Erinnerung: Salon Luitpold Musique – João Pedro Lopes Marque
+ s\, Gitarre
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-04@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261024T180000
-DTEND;TZID=Europe/Berlin:20261024T191000
-SUMMARY:Wunder.: ZEA MAYS – KMZ Kollektiv
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Dekoloniales Materialtheater über Mais\, globale Nahrungskette
- n\, Monsanto/Bayer und indigene Anbaumethoden – mit Livekamera\, Musik u
- nd Popcornmaschinen. Deutsch/Spanisch mit deutschen Übertiteln. Eintritt 
- regulär 20 EUR\, ermäßigt 12 EUR.
-URL:https://figurentheater-gfp.de/festival-2026/programm/zea-mays.php
+UID:muc-kulturtipps-20261029-03-20261030T193000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261030T193000
+DTEND;TZID=Europe/Berlin:20261030T213000
+SUMMARY:Rainald Grebe – Ich erinnere mich – glaube ich
+LOCATION:Theater Leo17 · Leopoldstraße 17\, 80802 München
+DESCRIPTION:Persönlich\, komisch und ungewöhnlich: Erinnerungsarbeit und 
+ neue Bühnenform nach lebensverändernden Erkrankungen.\nPreis: ab 39\,50 
+ €.\nEndzeit geschätzt.\nVeranstaltungsseite: https://lustspielhaus.de/e
+ vent/19318/
+URL:https://lustspielhaus.de/event/19318/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: ZEA MAYS – KMZ Kollektiv
+DESCRIPTION:Erinnerung: Rainald Grebe – Ich erinnere mich – glaube ich
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: ZEA MAYS – KMZ Kollektiv
+DESCRIPTION:Erinnerung: Rainald Grebe – Ich erinnere mich – glaube ich
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-05@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261024T200000
-DTEND;TZID=Europe/Berlin:20261024T204500
-SUMMARY:Wunder.: Ma P’tite Dame – Claire Heggen
-LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
-DESCRIPTION:Wortloses Physical Theatre mit Puppen-Doppelgänger und Humor 
- über das Altern. Nachgespräch im Anschluss (nicht in Endzeit enthalten).
-  Eintritt regulär 20 EUR\, ermäßigt 12 EUR.
-URL:https://figurentheater-gfp.de/festival-2026/programm/ma-p-tite-dame.php
+UID:muc-kulturtipps-20261029-04-20261030T200000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261030T200000
+DTEND;TZID=Europe/Berlin:20261030T221500
+SUMMARY:musica viva – BRSO\, Franck Ollu und Carolin Widmann
+LOCATION:Herkulessaal der Residenz · Residenzstraße 1\, 80333 München
+DESCRIPTION:Orchesterabend mit Urauflührungen von Reudenbach und Iannotta 
+ und Hans Zenders Neuinterpretation von Beethoven.\nPreis: 15–44 €.\nVe
+ r
+ anstaltungsseite: https://www.br-musica-viva.de/konzerte/brso-mit-franck-
+ ollu/
+URL:https://www.br-musica-viva.de/konzerte/brso-mit-franck-ollu/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: Ma P’tite Dame – Claire Heggen
+DESCRIPTION:Erinnerung: musica viva – BRSO\, Franck Ollu und Carolin Widm
+ ann
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: Ma P’tite Dame – Claire Heggen
+DESCRIPTION:Erinnerung: musica viva – BRSO\, Franck Ollu und Carolin Widm
+ a
+ nn
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-06@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261025T120000
-DTEND;TZID=Europe/Berlin:20261025T133000
-SUMMARY:Wunder.: Taco Talk mit KMZ Kollektiv
-LOCATION:schwere reiter\, Foyer\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Frisch zubereiteter mexikanischer Taco und Gespräch mit dem KM
- Z Kollektiv über Mais\, Kolonialismus\, Kunst und die Entstehung von ZEA 
- MAYS. Offizielle Seite nennt Sonderpreis ohne Betrag\; teils als freier Ei
- ntritt gelistet. Preis vor Buchung prüfen.
-URL:https://figurentheater-gfp.de/festival-2026/aktion-und-diskurs/taco-tal
- k.php
+UID:muc-kulturtipps-20261029-05-20261031T140000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261031T140000
+DTEND;TZID=Europe/Berlin:20261031T143000
+SUMMARY:Sensing Sites – The Incautious Gaze
+LOCATION:Lenbachhaus ·- Luisenstraße 33\, 80333 München
+DESCRIPTION:Live-Klangperformance zur dekolonialen Gedächtnissuche im Muse
+ umsraum.\nPreis: Eintritt frei.\nVeranstaltungsseite: https://www.lenbachh
+ aus.de/besuchen/kalender/termin/sensing-sites-dekoloniale-gedaechtnissuche
+ -19118
+URL:https://www.lenbachhaus.de/besuchen/kalender/termin/sensing-sites-dekol
+ oniale-gedaechtnissuche-19118
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: Taco Talk mit KMZ Kollektiv
+DESCRIPTION:Erinnerung: Sensing Sites – The Incautious Gaze
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: Taco Talk mit KMZ Kollektiv
+DESCRIPTION:Erinnerung: Sensing Sites – The Incautious Gaze
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-07@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261025T190000
-DTEND;TZID=Europe/Berlin:20261025T200000
-SUMMARY:Wunder.: Mein Opa auf den Marshallinseln – Theater TIER
-LOCATION:PATHOS theater\, Dachauer Straße 110d\, 80636 München
-DESCRIPTION:Persönliche Archive\, Figuren und Video dekonstruieren die Fam
- ilienlegende eines Kolonialisten und seine NS-Geschichte. Nachgespräch im
-  Anschluss. Eintritt regulär 20 EUR\, ermäßigt 12 EUR.
-URL:https://figurentheater-gfp.de/festival-2026/programm/mein-opa-auf-den-m
- arshallinseln.php
+UID:muc-kulturtipps-20261029-06-20261031T160000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261031T160000
+DTEND;TZID=Europe/Berlin:20261031T210000
+SUMMARY:Sensing Sites – Pendeldiskussion: Echo von Maji Maji
+LOCATION:Careteria · Goethestraße 24\, 80336 München
+DESCRIPTION:Künstlerisch-historische Auseinandersetzung mit kolonialer Gew
+ alt und heutigen Erinnerungsperspektiven.\nPreis: Eintritt frei.\nVeransta
+ ltungsseite: https://www.careteria.de/26-10-31-10-2026-sensing-sites-dekol
+ oniale-gedaechtnissuche
+URL:https://www.careteria.de/26-10-31-10-2026-sensing-sites-dekoloniale-ged
+ aechtnissuche
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: Mein Opa auf den Marshallinseln – Theate
- r TIER
+DESCRIPTION:Erinnerung: Sensing Sites – Pendeldiskussion: Echo von Maji M
+ aji
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: Mein Opa auf den Marshallinseln – Theate
- r TIER
+DESCRIPTION:Erinnerung: Sensing Sites – Pendeldiskussion: Echo von Maji M
+ aji
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-08@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261026T190000
-DTEND;TZID=Europe/Berlin:20261026T220000
-SUMMARY:Eröffnung: Maria Jarema – Revolutionäre Kommissarin der Abstrak
- tion
-LOCATION:Lenbachhaus\, Luisenstraße 33\, 80333 München
-DESCRIPTION:Eröffnung einer außergewöhnlichen ersten deutschen Werkschau
-  der polnischen Moderne: Malerei\, Monotypie\, Skulptur\, Bühnenbilder un
- d politisch engagierte Kunst. Eintritt frei\, keine Anmeldung.
-URL:https://www.lenbachhaus.de/besuchen/kalender/termin/maria-jarema-19049
+UID:muc-kulturtipps-20261029-07-20261031T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+DTEND;TZID=Europe/Berlin:20261031T220000
+SUMMARY:Pigor & Eichhorn – Grundkurs II
+LOCATION:Lustspielhaus · Occamstraße 8\, 80802 München
+DESCRIPTION:Pointiertes\, musikalisch substanzielles Kabarett als München-
+ Premiere.\nPreis: ab 29 €.\nEndzeit geschätzt.\nVeranstaltungsseite: ht
+ tps://lustspielhaus.de/event/19636/
+URL:https://lustspielhaus.de/event/19636/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Eröffnung: Maria Jarema – Revolutionäre Kommiss
- arin der Abstraktion
+DESCRIPTION:Erinnerung: Pigor & Eichhorn – Grundkurs II
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Eröffnung: Maria Jarema – Revolutionäre Kommiss
- arin der Abstraktion
+DESCRIPTION:Erinnerung: Pigor & Eichhorn – Grundkurs II
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-09@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261027T190000
-DTEND;TZID=Europe/Berlin:20261027T201500
-SUMMARY:Wunder.: Android (Baujahr 1737) – Benno Heisel
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Witzig-beklemmende Performance über den automatischen Flötist
- en von 1737 und drei Jahrhunderte Maschinenethik. Festival-Ticketpreis onl
- ine nicht eindeutig ausgewiesen – vor Buchung prüfen. Endzeit geschätz
- t (vom Veranstalter nicht verlässlich veröffentlicht).
-URL:https://figurentheater-gfp.de/festival-2026/programm.php
+UID:muc-kulturtipps-20261029-08-20261031T200000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261031T200000
+DTEND;TZID=Europe/Berlin:20261031T230000
+SUMMARY:Cumbia de los Muertos – Día-de-Muertos-Kulturabend
+LOCATION:Import Export · Schwere-Reiter-Straße 2b\, 80636 München
+DESCRIPTION:Mexikanisches Totenfest mit gemeinschaftlicher Ofrenda\, Musik
+ \, Tanz und Essen – mehr als eine Clubnacht.\nPreis: 13–18 € (je nac
+ h Vorverkauf/Abendkasse).\nEndzeit geschätzt.\nVeranstaltungsseite: https
+ ://import-export.cc/event/chucuxchucu-pres-cumbia-de-los-muertos/
+URL:https://import-export.cc/event/chucuxchucu-pres-cumbia-de-los-muertos/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: Android (Baujahr 1737) – Benno Heisel
+DESCRIPTION:Erinnerung: Cumbia de los Muertos – Día-de-Muertos-Kulturabe
+ nd
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: Android (Baujahr 1737) – Benno Heisel
+DESCRIPTION:Erinnerung: Cumbia de los Muertos – Día-de-Muertos-Kulturabe
+ nd
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-10@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261027T190000
-DTEND;TZID=Europe/Berlin:20261027T203000
-SUMMARY:Salon Luitpold: Anmerkungen zum Antisemitismus – Nassehi und Wolf
- fsohn
-LOCATION:Café Luitpold\, Brienner Straße 11\, 80333 München
-DESCRIPTION:Armin Nassehi und Michael Wolffsohn diskutieren die Funktion an
- tisemitischer Denkfiguren in westlichen Gesellschaften. Ticketvarianten zw
- ischen 6 und 52 EUR\, laut Veranstalter mit kostenloser Diskurs-Option ggf
- . Systemgebühr.
-URL:https://www.cafe-luitpold.de/salon-luitpold-anmerkungen-zum-antisemitis
- mus-27-10-2026-1900-uhr/
+UID:muc-kulturtipps-20261029-09-20261101T120000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261101T120000
+DTEND;TZID=Europe/Berlin:20261101T140000
+SUMMARY:Bavaschôro – Joga a Chave (Release & Kulinarik)
+LOCATION:Import Export · Schwere-Reiter-Straße 2b\, 80636 München
+DESCRIPTION:Bayerisch-brasilianisches Choro-Crossover mit Live-Musik und br
+ asilianischem Essen.\nPreis: 12–25 € (Ticketkategorie).\nEndzeit gesch
+ ätzt.\nVeranstaltungsseite: https://import-export.cc/event/bavaschoro-jog
+ a-a-chave-release/
+URL:https://import-export.cc/event/bavaschoro-joga-a-chave-release/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Salon Luitpold: Anmerkungen zum Antisemitismus – 
- Nassehi und Wolffsohn
+DESCRIPTION:Erinnerung: Bavaschôro – Joga a Chave (Release & Kulinarik)
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Salon Luitpold: Anmerkungen zum Antisemitismus – 
- Nassehi und Wolffsohn
+DESCRIPTION:Erinnerung: Bavaschôro – Joga a Chave (Release & Kulinarik)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-11@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261028T190000
-DTEND;TZID=Europe/Berlin:20261028T203000
-SUMMARY:Täuschung – Lesung mit Adania Shibli
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Lesung und Gespräch über die Erfahrung von Macht\, Erinnerung
-  und Verlust in Palästina. Moderation Lena Gorelik. Gespräch Englisch\, 
- Lesung Deutsch. 16/10 EUR\; Stream 8 EUR. Endzeit geschätzt (vom Veransta
- lter nicht verlässlich veröffentlicht).
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/taeuschung/
+UID:muc-kulturtipps-20261029-10-20261103T200000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261103T200000
+DTEND;TZID=Europe/Berlin:20261103T221500
+SUMMARY:Next Generation – HMTM und MGNM: Luis González Lladó
+LOCATION:schwere reiter · Dachauer Straße 114a\, 80636 München
+DESCRIPTION:Gegenwartsklavier mit Saariaho\, Ligeti\, Takemitsu und algorit
+ hmisch inspirierten Metaludios\; anschließend Neue-Musik-Jamsession.\nPre
+ is: 8 €.\nVeranstaltungsseite: https://hmtm.de/veranstaltungen/hmtm-mgnm
+ -praesentieren-next-generation-2/
+URL:https://hmtm.de/veranstaltungen/hmtm-mgnm-praesentieren-next-generation
+ -2/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Täuschung – Lesung mit Adania Shibli
+DESCRIPTION:Erinnerung: Next Generation – HMTM und MGNM: Luis González L
+ ladó
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Täuschung – Lesung mit Adania Shibli
+DESCRIPTION:Erinnerung: Next Generation – HMTM und MGNM: Luis González L
+ ladó
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:muc-kulturtipps-20261022-12@calendar.chatgpt
-DTSTAMP:20261022T065440Z
-DTSTART;TZID=Europe/Berlin:20261028T200000
-DTEND;TZID=Europe/Berlin:20261028T205000
-SUMMARY:Wunder.: Kissing the Ashes – Klaipėda Puppet Theatre
-LOCATION:HochX Theater und Live Art\, Entenbachstraße 37\, 81541 München
-DESCRIPTION:Visuell-dokumentarisches Figurentheater über Kriegszerstörung
-  und Erinnerungslücken einer litauischen Stadt – mit Tanz\, Poesie und 
- Sound. Litauisch mit deutschen Übertiteln. Regulär 20 EUR\, ermäßigt 1
- 2 EUR.
-URL:https://figurentheater-gfp.de/festival-2026/programm/kissing-the-ashes.
- php
+UID:muc-kulturtipps-20261029-11-20261104T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261104T190000
+DTEND;TZID=Europe/Berlin:20261104T203000
+SUMMARY:Salon Luitpold – ARD Der KI-Podcast live
+LOCATION:Café Luitpold · Brienner Straße 11\, 80333 München
+DESCRIPTION:Live-Diskussion mit den drei Hosts darüber\, welche realen Pro
+ bleme KI lösen kann – inklusive Publikumsexperiment.\nPreis: Eintritt f
+ rei\, Buchung erforderlich (evtl. Ticketgebühr).\nVeranstaltungsseite: ht
+ tps://www.cafe-luitpold.de/produkt/salon-luitpold-ard-der-ki-podcast-live-
+ welche-probleme-kann-ki-wirklich-loesen-04-11-2026-19-uhr/
+URL:https://www.cafe-luitpold.de/produkt/salon-luitpold-ard-der-ki-podcast-
+ live-welche-probleme-kann-ki-wirklich-loesen-04-11-2026-19-uhr/
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:Erinnerung: Wunder.: Kissing the Ashes – Klaipėda Puppet The
- atre
+DESCRIPTION:Erinnerung: Salon Luitpold – ARD Der KI-Podcast live
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT2H
-DESCRIPTION:Erinnerung: Wunder.: Kissing the Ashes – Klaipėda Puppet The
- atre
+DESCRIPTION:Erinnerung: Salon Luitpold – ARD Der KI-Podcast live
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261029-12-20261104T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261104T190000
+DTEND;TZID=Europe/Berlin:20261104T203000
+SUMMARY:Die Schönheit des Judentums – Eine muslimische Liebeserklärung
+LOCATION:Jüdisches Museum München · Sankt-Jakobs-Platz 16\, 80331 Münch
+ en
+DESCRIPTION:Der Philosoph Ahmad Milad Karimi im interreligiösen Gespräch 
+ – persönliche und philosophische Perspektive auf das Judentum.\nPreis: 
+ Eintritt frei\, Anmeldung erforderlich.\nVeranstaltungsseite: https://www.
+ juedisches-museum-muenchen.de/kalender
+URL:https://www.juedisches-museum-muenchen.de/kalender
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Die Schönheit des Judentums – Eine muslimische L
+ iebeserklärung
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Die Schönheit des Judentums – Eine muslimische L
+ iebeserklärung
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261029-13-20261104T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261104T190000
+DTEND;TZID=Europe/Berlin:20261104T220000
+SUMMARY:Nora Bossong im Gespräch mit Kardinal Reinhard Marx
+LOCATION:Katholische Akademie in Bayern · Mandlstraße 23\, 80802 München
+DESCRIPTION:Literatur und politische Theologie im Dialog über Religion\, K
+ risen und die Gestaltung der Gegenwart.\nPreis: Eintritt frei.\nVeranstalt
+ ungsseite: https://kath-akademie-bayern.de/veranstaltung/nora-bossong-im-g
+ espraech-mit-kardinal-marx/
+URL:https://kath-akademie-bayern.de/veranstaltung/nora-bossong-im-gespraech
+ -mit-kardinal-marx/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Nora Bossong im Gespräch mit Kardinal Reinhard Mar
+ x
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Nora Bossong im Gespräch mit Kardinal Reinhard Mar
+ x
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261029-14-20261104T190000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261104T190000
+DTEND;TZID=Europe/Berlin:20261104T210000
+SUMMARY:Schlüsseltechnologie Quantencomputing – Chancen und Ethik
+LOCATION:Deutsches Museum\, Auditorium · Museumsinsel 1\, 80538 München
+DESCRIPTION:Technik und gesellschaftliche Verantwortung im Gespräch über 
+ Quantencomputing.\nPreis: 8 €\, ermäßigt 5 €\; Stream kostenlos.\nVe
+ ranstaltungsseite: https://kath-akademie-bayern.de/veranstaltung/schluesse
+ ltechnologie-quantencomputing/
+URL:https://kath-akademie-bayern.de/veranstaltung/schluesseltechnologie-qua
+ ntencomputing/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Schlüsseltechnologie Quantencomputing – Chancen 
+ und Ethik
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Schlüsseltechnologie Quantencomputing – Chancen 
+ und Ethik
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:muc-kulturtipps-20261029-15-20261104T200000@muc-cal.example
+DTSTAMP:20261029T080213Z
+DTSTART;TZID=Europe/Berlin:20261104T200000
+DTEND;TZID=Europe/Berlin:20261104T220000
+SUMMARY:Ippio Payo Trio + LUNA: Breadcrumb Trails
+LOCATION:Import Export · Schwere-Reiter-Straße 2b\, 80636 München
+DESCRIPTION:Konzeptstarkes Doppelkonzert: Polyrhythmische Komposition und V
+ olkslieder als Looping-\, Erzähl- und Ritualperformance.\nPreis: 12 € z
+ zgl. Gebühr im VVK\, 16 € Abendkasse.\nEndzeit geschätzt.\nVeranstaltu
+ ngsseite: https://import-export.cc/event/luna-ippio-payo/
+URL:https://import-export.cc/event/luna-ippio-payo/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Erinnerung: Ippio Payo Trio + LUNA: Breadcrumb Trails
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT2H
+DESCRIPTION:Erinnerung: Ippio Payo Trio + LUNA: Breadcrumb Trails
 END:VALARM
 END:VEVENT
 END:VCALENDAR
