@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Muenchner Veranstaltungstipps//Kuratierte Kultur 2026//DE
+PRODID:-//Muenchner Kulturkurator//Woche 2026//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Münchner Veranstaltungstipps 12.-18.11.2026
+X-WR-CALNAME:Münchner Kultur 19.-25.11.2026
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
@@ -23,992 +23,1042 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:df3d51d1-d083-5997-93b9-de46dea8de0c@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T173000
-DTEND;TZID=Europe/Berlin:20261112T190000
-SUMMARY:Art & Tech Talk: Zwischen Innovation und Verantwortung
-LOCATION:HMTM Wavelab\, Barerstraße 19\, 80333 München
-DESCRIPTION:KI\, Macht und Gender: Perspektiven aus Kunst und Technologie s
- tatt Technikshow.\nPreis: Eintritt frei\, Anmeldung\nVerfügbarkeit: Anmel
- deplätze trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstal
- terseite und dort angegebene Anmeldeoption geprüft\; freie Anmeldeplätze
-  online nicht bestätigbar.\nVeranstaltungslink: https://hmtm.de/veranstal
- tungen/art-tech-talk-zwischen-innovation-und-verantwortung/
-URL:https://hmtm.de/veranstaltungen/art-tech-talk-zwischen-innovation-und-v
- erantwortung/
+UID:5dca2e3f-4359-5f2e-9994-f692a5724685@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T170000
+DTEND;TZID=Europe/Berlin:20261119T180000
+SUMMARY:Rachel Salamanders Archiv – Kurator*innenführung
+LOCATION:Monacensia im Hildebrandhaus\, Maria-Theresia-Straße 23\, 81675 M
+ ünchen\, Deutschland
+DESCRIPTION:Kuratorisch geleitete Tour durch Rachel Salamanders einzigartig
+ es Archiv jüdischen Literaturlebens.\nPreis: Eintritt frei\, Anmeldung\nT
+ icket-/Anmeldestatus: Anmeldeplätze trotz Recherche nicht feststellbar\nG
+ eprüfter Buchungsweg: Offizielle Veranstaltungsseite und angegebener E-Ma
+ il-Anmeldeweg bzw. Webshop geprüft\; eine verbindliche Echtzeit-Auskunft 
+ über freie Pflichtanmeldeplätze ist nicht verfügbar.\nHinweis: Anmeldun
+ g per monacensia.programm@muenchen.de.\nVeranstaltungslink: https://www.mu
+ enchner-stadtbibliothek.de/veranstaltungen/details/literatur-haltung-rache
+ l-salamanders-archiv-45440
+URL:https://www.muenchner-stadtbibliothek.de/veranstaltungen/details/litera
+ tur-haltung-rachel-salamanders-archiv-45440
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Art & Tech Talk: Zwischen Innovation und Verantwort
- ung
+DESCRIPTION:Erinnerung: Rachel Salamanders Archiv – Kurator*innenführung
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Art & Tech Talk: Zwischen Innovation und Verantwort
- ung
+DESCRIPTION:Erinnerung: Rachel Salamanders Archiv – Kurator*innenführung
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3aafa7bb-61bd-557d-b142-83e38c5fbb83@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T180000
-DTEND;TZID=Europe/Berlin:20261112T193000
-SUMMARY:Was bedeutet postkolonial im Museum? – Mèhèza Kalibani
-LOCATION:Museum Fünf Kontinente\, Maximilianstraße 42\, 80538 München
-DESCRIPTION:Theorie und konkrete Museumspraxis der Dekolonisierung\, mit au
- sgewiesenem Kurator.\nPreis: Eintritt frei\nVerfügbarkeit: Eintritt frei\
- , keine Ticketpflicht laut Veranstalter\nPrüfung: Konkrete offizielle Ver
- anstaltungsseite nennt freien Zugang ohne Ticketpflicht.\nVeranstaltungsli
- nk: https://www.museum-fuenf-kontinente.de/programm/kalender/2026/november
- /postkolonial-museum-lucian-scherman-lecture-meheza-kalibani\nEndzeit gesc
- hätzt.
+UID:55bbbe43-ba4a-548a-9659-86f085fc4a26@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T183000
+DTEND;TZID=Europe/Berlin:20261119T193000
+SUMMARY:Steina: Playback – Ausstellungsführung
+LOCATION:Haus der Kunst\, Prinzregentenstraße 1\, 80538 München\, Deutsch
+ land
+DESCRIPTION:Pionierin der Videokunst übersetzt Töne in bewegte Bilder\; F
+ ührung über die Klang-Bild-Praxis.\nPreis: 5 € zzgl. Museumseintritt\n
+ Ticket-/Anmeldestatus: Ticketverfügbarkeit trotz Recherche nicht feststel
+ lbar\nGeprüfter Buchungsweg: Offizielle Veranstaltungsdetailseite und ang
+ egebener autorisierter Ticket- oder Buchungslink geprüft\; ein aktueller\
+ , tatsächlich buchbarer Platzbestand wurde nicht nachweisbar angezeigt (t
+ eils dynamischer Shop).\nHinweis: Ticket: hdk-shop.gomus.de\; Gruppengrö
+ ße höchstens 25.\nVeranstaltungslink: https://www.hausderkunst.de/en/eve
+ nts/ausstellungsf%C3%BChrung-zu-steina-playback-325253
+URL:https://www.hausderkunst.de/en/events/ausstellungsf%C3%BChrung-zu-stein
+ a-playback-325253
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Steina: Playback – Ausstellungsführung
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Steina: Playback – Ausstellungsführung
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:352ab0e4-2611-5812-ae2e-01ed499e80aa@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T190000
+DTEND;TZID=Europe/Berlin:20261119T204500
+SUMMARY:Ein Abend für Christa Reinig
+LOCATION:Monacensia im Hildebrandhaus\, Maria-Theresia-Straße 23\, 81675 M
+ ünchen\, Deutschland
+DESCRIPTION:Kollektives Lesen\, persönliche Textwahl und queere Literaturg
+ eschichte zum 100. Geburtstag.\nPreis: Eintritt frei\, Anmeldung\nTicket-/
+ Anmeldestatus: Anmeldeplätze trotz Recherche nicht feststellbar\nGeprüft
+ er Buchungsweg: Offizielle Veranstaltungsseite und angegebener E-Mail-Anme
+ ldeweg bzw. Webshop geprüft\; eine verbindliche Echtzeit-Auskunft über f
+ reie Pflichtanmeldeplätze ist nicht verfügbar.\nHinweis: Anmeldung per m
+ onacensia.programm@muenchen.de.\nVeranstaltungslink: https://www.muenchner
+ -stadtbibliothek.de/veranstaltungen/details/ein-abend-fuer-christa-reinig-
+ 45220
+URL:https://www.muenchner-stadtbibliothek.de/veranstaltungen/details/ein-ab
+ end-fuer-christa-reinig-45220
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Ein Abend für Christa Reinig
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Ein Abend für Christa Reinig
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:97bf89cb-278f-59ff-9e88-b4d86371388b@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T190000
+DTEND;TZID=Europe/Berlin:20261119T203000
+SUMMARY:Markus Gabriel – Die radikale Freiheit der Kunst
+LOCATION:Museum Fünf Kontinente\, Maximilianstraße 42\, 80538 München\, 
+ Deutschland
+DESCRIPTION:Der Philosoph diskutiert die Freiheit der Kunst und ihre politi
+ schen Grenzen zur Bücherschau.\nPreis: 20 € / 15 € ermäßigt\nTicket
+ -/Anmeldestatus: Ticketverfügbarkeit trotz Recherche nicht feststellbar\n
+ Geprüfter Buchungsweg: Offizielle Veranstaltungsdetailseite und angegeben
+ er autorisierter Ticket- oder Buchungslink geprüft\; ein aktueller\, tats
+ ächlich buchbarer Platzbestand wurde nicht nachweisbar angezeigt (teils d
+ ynamischer Shop).\nEndzeit geschätzt.\nVeranstaltungslink: https://www.mu
+ seum-fuenf-kontinente.de/programm/kalender/2026/november/muenchner-buecher
+ schau-markus-gabriel-radikale-freiheit-kunst
 URL:https://www.museum-fuenf-kontinente.de/programm/kalender/2026/november/
- postkolonial-museum-lucian-scherman-lecture-meheza-kalibani
+ muenchner-buecherschau-markus-gabriel-radikale-freiheit-kunst
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Was bedeutet postkolonial im Museum? – Mèhèza K
- alibani
+DESCRIPTION:Erinnerung: Markus Gabriel – Die radikale Freiheit der Kunst
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Was bedeutet postkolonial im Museum? – Mèhèza K
- alibani
+DESCRIPTION:Erinnerung: Markus Gabriel – Die radikale Freiheit der Kunst
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6538837b-abd6-564d-8751-b0b1fa097ecf@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T190000
-DTEND;TZID=Europe/Berlin:20261112T203000
-SUMMARY:Salon Luitpold: Wie rechte Populisten Brandmauern einreißen – Jo
- hannes Hillje
-LOCATION:Café Luitpold\, Brienner Straße 11\, 80333 München
-DESCRIPTION:Analyse digitaler und lokaler Propaganda\; Johannes Hillje im G
- espräch.\nPreis: 6–52 €\nVerfügbarkeit: Ticketverfügbarkeit trotz R
- echerche nicht feststellbar\nPrüfung: Konkrete Veranstalterseite und ggf.
-  dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbestand sichtbar.
- \nVeranstaltungslink: https://www.cafe-luitpold.de/produkt/salon-luitpold-
- wie-rechte-populisten-brandmauern-einreissen-johannes-hillje-im-gespraech-
- mit-stephan-j-meier-12-11-2026-19-uhr/
-URL:https://www.cafe-luitpold.de/produkt/salon-luitpold-wie-rechte-populist
- en-brandmauern-einreissen-johannes-hillje-im-gespraech-mit-stephan-j-meier
- -12-11-2026-19-uhr/
+UID:05478c42-77cd-59b0-90a1-89cb50702683@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T190000
+DTEND;TZID=Europe/Berlin:20261119T204500
+SUMMARY:Odeon: Zwischen den Zeilen – Neudauer und Schostakowitsch
+LOCATION:Allerheiligen-Hofkirche\, Residenzstraße 1\, 80333 München\, Deu
+ tschland
+DESCRIPTION:Exzellente Kammermusik im historisch und dramaturgisch kuratier
+ ten Rahmen mit Schostakowitsch.\nPreis: 35–62 €\nTicket-/Anmeldestatus
+ : Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buch
+ ungsweg: Offizielle Veranstaltungsdetailseite und angegebener autorisierte
+ r Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buchba
+ rer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer Shop
+ ).\nEndzeit geschätzt.\nVeranstaltungslink: https://hmtm.de/veranstaltung
+ en/odeon-konzert-zwischen-den-zeilen/
+URL:https://hmtm.de/veranstaltungen/odeon-konzert-zwischen-den-zeilen/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Salon Luitpold: Wie rechte Populisten Brandmauern e
- inreißen – Johannes Hillje
+DESCRIPTION:Erinnerung: Odeon: Zwischen den Zeilen – Neudauer und Schosta
+ kowitsch
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Salon Luitpold: Wie rechte Populisten Brandmauern e
- inreißen – Johannes Hillje
+DESCRIPTION:Erinnerung: Odeon: Zwischen den Zeilen – Neudauer und Schosta
+ kowitsch
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2b9cef3a-91ef-526c-b14e-93bfb74f2ef1@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T190000
-DTEND;TZID=Europe/Berlin:20261112T203000
-SUMMARY:Judith Raupp: Morgen gehe ich einkaufen\, falls der Markt noch steh
+UID:efd121d7-6290-56b3-b845-f2e21270e744@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T190000
+DTEND;TZID=Europe/Berlin:20261119T203000
+SUMMARY:Zeitzeugengespräch: 85 Jahre Deportation nach Kaunas
+LOCATION:NS-Dokumentationszentrum\, Max-Mannheimer-Platz 1\, 80333 München
+ \, Deutschland
+DESCRIPTION:Charlotte Knobloch und Ernst Grube erinnern an den 20.11.1941\;
+  historisch besonders gewichtige Zeitzeugenschaft.\nPreis: Eintritt frei\n
+ Ticket-/Anmeldestatus: Eintritt frei\; keine Ticket- oder Pflichtanmeldung
+  ausgewiesen\nGeprüfter Buchungsweg: Offizielle Veranstaltungsseite best
+ ätigt freien Eintritt bzw. nennt keine Anmeldepflicht.\nEndzeit geschätz
+ t.\nVeranstaltungslink: https://www.nsdoku.de/programm/aktuell/detailseite
+ /die-erste-deportation-von-juedinnen-und-juden-nach-kaunas-vor-85-jahren-2
+ 716
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/die-erste-deportatio
+ n-von-juedinnen-und-juden-nach-kaunas-vor-85-jahren-2716
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Zeitzeugengespräch: 85 Jahre Deportation nach Kaun
+ as
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Zeitzeugengespräch: 85 Jahre Deportation nach Kaun
+ as
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:794abafd-bac9-530d-aa18-c97c4934a85e@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261119T200000
+DTEND;TZID=Europe/Berlin:20261119T211000
+SUMMARY:Mein kleines Prachttier – Leonie Böhm
+LOCATION:Münchner Kammerspiele (Schauspielhaus)\, Maximilianstraße 26-28\
+ , 80539 München\, Deutschland
+DESCRIPTION:Unbequeme\, formal zugespitzte Romanadaption von Lucas Rijnevel
+ d über Missbrauch und Macht.\nPreis: ab 18 €\nTicket-/Anmeldestatus: Ti
+ cketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchungs
+ weg: Offizielle Veranstaltungsdetailseite und angegebener autorisierter Ti
+ cket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buchbarer 
+ Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer Shop).\n
+ Veranstaltungslink: https://www.muenchner-kammerspiele.de/de/programm/4287
+ 1-mein-kleines-prachttier
+URL:https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-pr
+ achttier
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Mein kleines Prachttier – Leonie Böhm
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Mein kleines Prachttier – Leonie Böhm
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd26f9b-8e15-5d53-9fc6-0ffc620c1dc5@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261120T160000
+DTEND;TZID=Europe/Berlin:20261120T190000
+SUMMARY:Campus #31: Über Rechtsextremismus sprechen (Tag 1)
+LOCATION:Münchner Kammerspiele (Schauspielhaus)\, Maximilianstraße 26-28\
+ , 80539 München\, Deutschland
+DESCRIPTION:Workshop über Rechtsextremismus und Erinnerung mit ästhetisch
+ en Theatermethoden.\nPreis: Eintritt frei\, Anmeldung\nTicket-/Anmeldestat
+ us: Anmeldeplätze trotz Recherche nicht feststellbar\nGeprüfter Buchungs
+ weg: Offizielle Veranstaltungsseite und angegebener E-Mail-Anmeldeweg bzw.
+  Webshop geprüft\; eine verbindliche Echtzeit-Auskunft über freie Pflich
+ tanmeldeplätze ist nicht verfügbar.\nHinweis: Teilnahme nur für Persone
+ n bis 30 Jahre\; Anmeldung mitmachen@kammerspiele.de.\nVeranstaltungslink:
+  https://www.muenchner-kammerspiele.de/de/programm/54175-campus-31-uber-re
+ chtsextremismus-sprechen
+URL:https://www.muenchner-kammerspiele.de/de/programm/54175-campus-31-uber-
+ rechtsextremismus-sprechen
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Campus #31: Über Rechtsextremismus sprechen (Tag 1
+ )
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Campus #31: Über Rechtsextremismus sprechen (Tag 1
+ )
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b994c05-34e1-5d7e-87cc-3495ae1046dd@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261120T161500
+DTEND;TZID=Europe/Berlin:20261120T171500
+SUMMARY:Shifting the Silence – Kunstführung
+LOCATION:Lenbachhaus\, Luisenstraße 33\, 80333 München\, Deutschland
+DESCRIPTION:Kuratierte Führung durch eine anspruchsvolle Schau zu Bild\, S
+ ichtbarkeit und Stille.\nPreis: 5 € zzgl. Museumseintritt\nTicket-/Anmel
+ destatus: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüf
+ ter Buchungsweg: Offizielle Veranstaltungsdetailseite und angegebener auto
+ risierter Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlic
+ h buchbarer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamisc
+ her Shop).\nVeranstaltungslink: https://www.lenbachhaus.de/en/visit/whats-
+ on/date/fuehrung-durch-die-ausstellung-19061
+URL:https://www.lenbachhaus.de/en/visit/whats-on/date/fuehrung-durch-die-au
+ sstellung-19061
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Shifting the Silence – Kunstführung
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Shifting the Silence – Kunstführung
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a25a108d-b3c6-528d-b4f0-03915784e993@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261120T170000
+DTEND;TZID=Europe/Berlin:20261120T183000
+SUMMARY:Alexandra Stanić – Ausländergöre
+LOCATION:Museum Fünf Kontinente\, Maximilianstraße 42\, 80538 München\, 
+ Deutschland
+DESCRIPTION:Eine pointierte Stimme über Migration\, Macht\, Klassismus und
+  politische Gegenwart.\nPreis: 20 € / 15 € ermäßigt\nTicket-/Anmelde
+ status: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfte
+ r Buchungsweg: Offizielle Veranstaltungsdetailseite und angegebener autori
+ sierter Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich 
+ buchbarer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamische
+ r Shop).\nEndzeit geschätzt.\nVeranstaltungslink: https://www.museum-fuen
+ f-kontinente.de/programm/kalender/2026/november/muenchner-buecherschau-ale
+ xandra-stanic-auslaendergoere
+URL:https://www.museum-fuenf-kontinente.de/programm/kalender/2026/november/
+ muenchner-buecherschau-alexandra-stanic-auslaendergoere
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Alexandra Stanić – Ausländergöre
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Alexandra Stanić – Ausländergöre
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:341c8708-e90a-5183-ac86-225baf1b2239@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261120T190000
+DTEND;TZID=Europe/Berlin:20261120T210000
+SUMMARY:Fragile Typen – Männlichkeiten verlernen
+LOCATION:Habibi Kiosk der Münchner Kammerspiele\, Maximilianstraße 26-28\
+ , 80539 München\, Deutschland
+DESCRIPTION:Paul Brodowsky und Fikri Anıl Altıntaş über männliche Roll
+ en\, Sprachlosigkeit und Veränderung.\nPreis: Eintritt frei\nTicket-/Anme
+ ldestatus: Eintritt frei\; keine Ticket- oder Pflichtanmeldung ausgewiesen
+ \nGeprüfter Buchungsweg: Offizielle Veranstaltungsseite bestätigt freien
+  Eintritt bzw. nennt keine Anmeldepflicht.\nEndzeit geschätzt.\nVeranstal
+ tungslink: https://www.muenchner-kammerspiele.de/de/programm/53964-fragile
+ -typen
+URL:https://www.muenchner-kammerspiele.de/de/programm/53964-fragile-typen
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Fragile Typen – Männlichkeiten verlernen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Fragile Typen – Männlichkeiten verlernen
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3b816031-7838-5ed4-b08d-16236b6da3d6@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261120T200000
+DTEND;TZID=Europe/Berlin:20261120T213000
+SUMMARY:Brahms: Ein deutsches Requiem – Fassung Heinrich Poos (Fr)
+LOCATION:Stephanuskirche\, Nibelungenstraße 51\, 80639 München\, Deutschl
+ and
+DESCRIPTION:Zwei Klaviere und Pauken legen die kontrapunktische Architektur
+  des Brahms-Requiems frei.\nPreis: ca. 18–28 €\nTicket-/Anmeldestatus:
+  Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchu
+ ngsweg: Offizielle Veranstaltungsdetailseite und angegebener autorisierter
+  Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buchbar
+ er Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer Shop)
+ .\nHinweis: Ticketweg München Ticket\; Freitag unter musikalischer Leitun
+ g von Studierenden der HMTM.\nEndzeit geschätzt.\nVeranstaltungslink: htt
+ ps://www.muenchenticket.de/event/johannes-brahms-ein-deutsches-requiem-398
+ 17/
+URL:https://www.muenchenticket.de/event/johannes-brahms-ein-deutsches-requi
+ em-39817/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Brahms: Ein deutsches Requiem – Fassung Heinrich 
+ Poos (Fr)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Brahms: Ein deutsches Requiem – Fassung Heinrich 
+ Poos (Fr)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2a16d565-2931-5541-9b2f-30a60d64eeda@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261120T203000
+DTEND;TZID=Europe/Berlin:20261120T220000
+SUMMARY:Rabbithole – Premiere
+LOCATION:Münchner Kammerspiele (Werkraum)\, Hildegardstraße 1\, 80539 Mü
+ nchen\, Deutschland
+DESCRIPTION:Persönliches dokumentarisches Triptychon über die NS-Patiente
+ nmorde und jüdische Familiengeschichten.\nPreis: 12 €\nTicket-/Anmeldes
+ tatus: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter
+  Buchungsweg: Offizielle Veranstaltungsdetailseite und angegebener autoris
+ ierter Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich b
+ uchbarer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer
+  Shop).\nVeranstaltungslink: https://www.muenchner-kammerspiele.de/de/prog
+ ramm/51934-rabbithole
+URL:https://www.muenchner-kammerspiele.de/de/programm/51934-rabbithole
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Rabbithole – Premiere
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Rabbithole – Premiere
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bbcaaf4b-9fb9-58f7-a5d8-bbb7c37e971d@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T170000
+SUMMARY:Campus #31: Über Rechtsextremismus sprechen (Tag 2)
+LOCATION:Münchner Kammerspiele (Schauspielhaus)\, Maximilianstraße 26-28\
+ , 80539 München\, Deutschland
+DESCRIPTION:Künstlerische Erinnerungsarbeit zu rechtsextremer Gewalt\, u. 
+ a. mittels Klangcollage.\nPreis: Eintritt frei\, Anmeldung\nTicket-/Anmeld
+ estatus: Anmeldeplätze trotz Recherche nicht feststellbar\nGeprüfter Buc
+ hungsweg: Offizielle Veranstaltungsseite und angegebener E-Mail-Anmeldeweg
+  bzw. Webshop geprüft\; eine verbindliche Echtzeit-Auskunft über freie P
+ flichtanmeldeplätze ist nicht verfügbar.\nHinweis: Teilnahme nur für Pe
+ rsonen bis 30 Jahre\, ggf. Laptop nötig\; Anmeldung mitmachen@kammerspiel
+ e.de.\nVeranstaltungslink: https://www.muenchner-kammerspiele.de/de/progra
+ mm/54175-campus-31-uber-rechtsextremismus-sprechen
+URL:https://www.muenchner-kammerspiele.de/de/programm/54175-campus-31-uber-
+ rechtsextremismus-sprechen
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Campus #31: Über Rechtsextremismus sprechen (Tag 2
+ )
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Campus #31: Über Rechtsextremismus sprechen (Tag 2
+ )
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a1cf9cc5-4acf-53d8-bb9b-269d9212535a@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261121T193000
+DTEND;TZID=Europe/Berlin:20261121T210000
+SUMMARY:Rabbithole – mit Publikumsgespräch
+LOCATION:Münchner Kammerspiele (Werkraum)\, Hildegardstraße 1\, 80539 Mü
+ nchen\, Deutschland
+DESCRIPTION:Dokumentarische Auseinandersetzung mit NS-Unrecht\; diese Vorst
+ ellung mit Nachgespräch.\nPreis: 12 €\nTicket-/Anmeldestatus: Ticketver
+ fügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchungsweg: Of
+ fizielle Veranstaltungsdetailseite und angegebener autorisierter Ticket- o
+ der Buchungslink geprüft\; ein aktueller\, tatsächlich buchbarer Platzbe
+ stand wurde nicht nachweisbar angezeigt (teils dynamischer Shop).\nHinweis
+ : Das Publikumsgespräch schließt sich an\; die hier angenommene Endzeit 
+ gilt ohne Gespräch.\nVeranstaltungslink: https://www.muenchner-kammerspie
+ le.de/de/programm/51934-rabbithole
+URL:https://www.muenchner-kammerspiele.de/de/programm/51934-rabbithole
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Rabbithole – mit Publikumsgespräch
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Rabbithole – mit Publikumsgespräch
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83f9eba9-5c4e-5cdb-a65d-9412ca63b754@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T210000
+SUMMARY:Jefta van Dinther: Mercury Rising (Sa)
+LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München\, Deutschl
+ and
+DESCRIPTION:Eigenständige körperliche Übersetzung zwischen Gebärdenspra
+ che und Bewegungsdramaturgie\; anschließend Artist Talk.\nPreis: ca. 18
+ –25 €\nTicket-/Anmeldestatus: Ticketverfügbarkeit trotz Recherche nic
+ ht feststellbar\nGeprüfter Buchungsweg: Offizielle Veranstaltungsdetailse
+ ite und angegebener autorisierter Ticket- oder Buchungslink geprüft\; ein
+  aktueller\, tatsächlich buchbarer Platzbestand wurde nicht nachweisbar a
+ ngezeigt (teils dynamischer Shop).\nHinweis: Veranstalter schwerereiter.de
+ \, Buchungsweg Rausgegangen.\nVeranstaltungslink: https://schwerereiter.de
+ /?tribe_events=jefta-van-dinther-mercury-rising-2
+URL:https://schwerereiter.de/?tribe_events=jefta-van-dinther-mercury-rising
+ -2
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jefta van Dinther: Mercury Rising (Sa)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jefta van Dinther: Mercury Rising (Sa)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f91a29-7083-520c-ae64-55238b7c1343@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261121T200000
+DTEND;TZID=Europe/Berlin:20261121T213000
+SUMMARY:Salon Luitpold: Lena Christ – Die Rumplhanni
+LOCATION:Café Luitpold\, Brienner Straße 11\, 80333 München\, Deutschlan
+ d
+DESCRIPTION:Monika Baumgartner liest Lena Christ\, verbunden mit ihrer eige
+ nen Rolle in der Verfilmung von 1981.\nPreis: 6–52 €\nTicket-/Anmeldes
+ tatus: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter
+  Buchungsweg: Offizielle Veranstaltungsdetailseite und angegebener autoris
+ ierter Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich b
+ uchbarer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer
+  Shop).\nHinweis: Offizieller WooCommerce-Shop zeigt Kategorien und Warenk
+ orb\, aber keine gesicherte Live-Bestandsauskunft.\nVeranstaltungslink: ht
+ tps://www.cafe-luitpold.de/produkt/salon-luitpold-lena-christ-die-rumplhan
+ ni-lesung-mit-monika-baumgartner-21-11-2026-20-uhr/
+URL:https://www.cafe-luitpold.de/produkt/salon-luitpold-lena-christ-die-rum
+ plhanni-lesung-mit-monika-baumgartner-21-11-2026-20-uhr/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Salon Luitpold: Lena Christ – Die Rumplhanni
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Salon Luitpold: Lena Christ – Die Rumplhanni
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4e4498b9-3699-5c4b-8582-eaba34c50b45@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T110000
+DTEND;TZID=Europe/Berlin:20261122T123000
+SUMMARY:Charlotte Knobloch – Trotzdem weiter
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München\, Deutsc
+ hland
+DESCRIPTION:Begegnung mit einer herausragenden Zeitzeugin und jüdischen Pe
+ rsönlichkeit.\nPreis: 16 € / 10 € ermäßigt\nTicket-/Anmeldestatus: 
+ Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchun
+ gsweg: Offizielle Veranstaltungsdetailseite und angegebener autorisierter 
+ Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buchbare
+ r Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer Shop).
+ \nEndzeit geschätzt.\nVeranstaltungslink: https://www.literaturhaus-muenc
+ hen.de/veranstaltung/trotzdem-weiter/
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/trotzdem-weiter/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Charlotte Knobloch – Trotzdem weiter
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Charlotte Knobloch – Trotzdem weiter
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4ff8b024-368a-59bd-b33c-12bb10c6a5ca@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T110000
+DTEND;TZID=Europe/Berlin:20261122T123000
+SUMMARY:Jüdische Isarvorstadt – Synagoge Reichenbachstraße (11 Uhr)
+LOCATION:Jüdisches Museum München\, Sankt-Jakobs-Platz 16\, 80331 Münche
+ n\, Deutschland
+DESCRIPTION:Führung durch die aufwendig restaurierte Synagoge und jüdisch
+ e Stadträume.\nPreis: Eintritt frei\, Anmeldung\nTicket-/Anmeldestatus: A
+ nmeldeplätze trotz Recherche nicht feststellbar\nGeprüfter Buchungsweg: 
+ Offizielle Veranstaltungsseite und angegebener E-Mail-Anmeldeweg bzw. Webs
+ hop geprüft\; eine verbindliche Echtzeit-Auskunft über freie Pflichtanme
+ ldeplätze ist nicht verfügbar.\nHinweis: Namentliche Pflichtbuchung im W
+ ebshop jmm-shop.gomus.de\; max. 14 Plätze.\nVeranstaltungslink: https://w
+ ww.juedisches-museum-muenchen.de/kalender/details/juedische-isarvorstadt-4
+ 74/3523
+URL:https://www.juedisches-museum-muenchen.de/kalender/details/juedische-is
+ arvorstadt-474/3523
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jüdische Isarvorstadt – Synagoge Reichenbachstra
+ ße (11 Uhr)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jüdische Isarvorstadt – Synagoge Reichenbachstra
+ ße (11 Uhr)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1b57eb9a-bb61-5994-9767-deb6f9613302@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T130000
+DTEND;TZID=Europe/Berlin:20261122T143000
+SUMMARY:Jüdische Isarvorstadt – Synagoge Reichenbachstraße (13 Uhr)
+LOCATION:Jüdisches Museum München\, Sankt-Jakobs-Platz 16\, 80331 Münche
+ n\, Deutschland
+DESCRIPTION:Zweiter eigenständiger Rundgang zur restaurierten Synagoge und
+  jüdischer Stadtgeschichte.\nPreis: Eintritt frei\, Anmeldung\nTicket-/An
+ meldestatus: Anmeldeplätze trotz Recherche nicht feststellbar\nGeprüfter
+  Buchungsweg: Offizielle Veranstaltungsseite und angegebener E-Mail-Anmeld
+ eweg bzw. Webshop geprüft\; eine verbindliche Echtzeit-Auskunft über fre
+ ie Pflichtanmeldeplätze ist nicht verfügbar.\nHinweis: Namentliche Pflic
+ htbuchung im Webshop jmm-shop.gomus.de\; max. 14 Plätze.\nVeranstaltungsl
+ ink: https://www.juedisches-museum-muenchen.de/kalender/details/juedische-
+ isarvorstadt-474/3523
+URL:https://www.juedisches-museum-muenchen.de/kalender/details/juedische-is
+ arvorstadt-474/3523
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jüdische Isarvorstadt – Synagoge Reichenbachstra
+ ße (13 Uhr)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jüdische Isarvorstadt – Synagoge Reichenbachstra
+ ße (13 Uhr)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1f89d3-46d1-5c56-9dfa-e718f4c744cf@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T150000
+DTEND;TZID=Europe/Berlin:20261122T221500
+SUMMARY:Wallenstein – Ein Schlachtfest in sieben Gängen
+LOCATION:Münchner Kammerspiele (Schauspielhaus)\, Maximilianstraße 26-28\
+ , 80539 München\, Deutschland
+DESCRIPTION:Preisgekrönte 7-stündige Theaterproduktion\, die Schillers Ma
+ chtpolitik mit einem realen Schlachtfest verbindet.\nPreis: 30–85 €\nT
+ icket-/Anmeldestatus: Ticketverfügbarkeit trotz Recherche nicht feststell
+ bar\nGeprüfter Buchungsweg: Offizielle Veranstaltungsdetailseite und ange
+ gebener autorisierter Ticket- oder Buchungslink geprüft\; ein aktueller\,
+  tatsächlich buchbarer Platzbestand wurde nicht nachweisbar angezeigt (te
+ ils dynamischer Shop).\nVeranstaltungslink: https://www.muenchner-kammersp
+ iele.de/de/programm/42815-wallenstein
+URL:https://www.muenchner-kammerspiele.de/de/programm/42815-wallenstein
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Wallenstein – Ein Schlachtfest in sieben Gängen
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Wallenstein – Ein Schlachtfest in sieben Gängen
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e0c5407-b3a5-57d6-b7ef-71f388a8363a@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T180000
+DTEND;TZID=Europe/Berlin:20261122T200000
+SUMMARY:Brahms: Ein deutsches Requiem – Fassung Heinrich Poos (So)
+LOCATION:Stephanuskirche\, Nibelungenstraße 51\, 80639 München\, Deutschl
+ and
+DESCRIPTION:Zweite Aufführung der besonderen Reduktion für Chor\, Soli\, 
+ zwei Klaviere und Pauken.\nPreis: ca. 22–32 €\nTicket-/Anmeldestatus: 
+ Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchun
+ gsweg: Offizielle Veranstaltungsdetailseite und angegebener autorisierter 
+ Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buchbare
+ r Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer Shop).
+ \nHinweis: Ticketweg München Ticket.\nEndzeit geschätzt.\nVeranstaltungs
+ link: https://www.muenchenticket.de/event/johannes-brahms-ein-deutsches-re
+ quiem-39817/
+URL:https://www.muenchenticket.de/event/johannes-brahms-ein-deutsches-requi
+ em-39817/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Brahms: Ein deutsches Requiem – Fassung Heinrich 
+ Poos (So)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Brahms: Ein deutsches Requiem – Fassung Heinrich 
+ Poos (So)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aea20268-f262-5927-8002-1d10f90181b6@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T190000
+DTEND;TZID=Europe/Berlin:20261122T213000
+SUMMARY:Sabbath Queen – Film und Gespräch mit Sandi DuBowski
+LOCATION:NS-Dokumentationszentrum\, Max-Mannheimer-Platz 1\, 80333 München
+ \, Deutschland
+DESCRIPTION:21 Jahre Dokumentarfilm über Rabbi\, Dragkunst und Erfindung o
+ ffener Ritualräume\, danach Regiegespräch.\nPreis: Eintritt frei\nTicket
+ -/Anmeldestatus: Eintritt frei\; keine Ticket- oder Pflichtanmeldung ausge
+ wiesen\nGeprüfter Buchungsweg: Offizielle Veranstaltungsseite bestätigt 
+ freien Eintritt bzw. nennt keine Anmeldepflicht.\nEndzeit geschätzt.\nVer
+ anstaltungslink: https://www.juedisches-museum-muenchen.de/kalender/detail
+ s/sabbath-queen-501/3547
+URL:https://www.juedisches-museum-muenchen.de/kalender/details/sabbath-quee
+ n-501/3547
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Sabbath Queen – Film und Gespräch mit Sandi DuBo
+ wski
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Sabbath Queen – Film und Gespräch mit Sandi DuBo
+ wski
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:73668c83-cb5b-56dd-9824-1c3226d4bcc1@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261122T200000
+DTEND;TZID=Europe/Berlin:20261122T210000
+SUMMARY:Jefta van Dinther: Mercury Rising (So)
+LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München\, Deutschl
+ and
+DESCRIPTION:Tanz und Gebärdensprache verschmelzen zum eigenen Körpersyste
+ m\, weit über gewöhnliche Tanzillustration hinaus.\nPreis: ca. 18–25 
+ €\nTicket-/Anmeldestatus: Ticketverfügbarkeit trotz Recherche nicht fes
+ tstellbar\nGeprüfter Buchungsweg: Offizielle Veranstaltungsdetailseite un
+ d angegebener autorisierter Ticket- oder Buchungslink geprüft\; ein aktue
+ ller\, tatsächlich buchbarer Platzbestand wurde nicht nachweisbar angezei
+ gt (teils dynamischer Shop).\nHinweis: Veranstalter schwerereiter.de\, Tic
+ ketshop Rausgegangen.\nVeranstaltungslink: https://schwerereiter.de/?tribe
+ _events=jefta-van-dinther-mercury-rising
+URL:https://schwerereiter.de/?tribe_events=jefta-van-dinther-mercury-rising
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jefta van Dinther: Mercury Rising (So)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Jefta van Dinther: Mercury Rising (So)
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c77b1638-8bc6-55be-9571-cbd7b704d611@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261123T190000
+DTEND;TZID=Europe/Berlin:20261123T203000
+SUMMARY:Andrea Wulf: Der Reisende – Georg Forster
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München\, Deutsc
+ hland
+DESCRIPTION:Weltgeschichte der Aufklärung\, Reisen und Menschlichkeit mit 
+ einer renommierten Sachbuchautorin.\nPreis: 10–16 €\nTicket-/Anmeldest
+ atus: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter 
+ Buchungsweg: Offizielle Veranstaltungsdetailseite und angegebener autorisi
+ erter Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich bu
+ chbarer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer 
+ Shop).\nEndzeit geschätzt.\nVeranstaltungslink: https://www.literaturhaus
+ -muenchen.de/veranstaltung/der-reisende-georg-forster-und-die-entdeckung-d
+ er-menschlichkeit/
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/der-reisende-georg-
+ forster-und-die-entdeckung-der-menschlichkeit/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Andrea Wulf: Der Reisende – Georg Forster
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: Andrea Wulf: Der Reisende – Georg Forster
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9286cc32-92c7-58ee-a20b-8eeef82f52fc@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261123T190000
+DTEND;TZID=Europe/Berlin:20261123T210000
+SUMMARY:KINO ASYL – Filmabend im NS-Dokumentationszentrum
+LOCATION:NS-Dokumentationszentrum\, Max-Mannheimer-Platz 1\, 80333 München
+ \, Deutschland
+DESCRIPTION:Von Geflüchteten selbst kuratierte Filme\, unter anderem zu Tr
+ auma nach Kriegserfahrung.\nPreis: Eintritt frei\nTicket-/Anmeldestatus: E
+ intritt frei\; keine Ticket- oder Pflichtanmeldung ausgewiesen\nGeprüfter
+  Buchungsweg: Offizielle Veranstaltungsseite bestätigt freien Eintritt bz
+ w. nennt keine Anmeldepflicht.\nEndzeit geschätzt.\nVeranstaltungslink: h
+ ttps://www.nsdoku.de/programm/aktuell/detailseite/kino-asyl-2718
+URL:https://www.nsdoku.de/programm/aktuell/detailseite/kino-asyl-2718
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: KINO ASYL – Filmabend im NS-Dokumentationszentrum
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Erinnerung: KINO ASYL – Filmabend im NS-Dokumentationszentrum
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd17839-00e7-53a9-b64d-bb695671d620@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261123T200000
+DTEND;TZID=Europe/Berlin:20261123T214500
+SUMMARY:Jugend ohne Gott – Kammerspiele
+LOCATION:Münchner Kammerspiele (Schauspielhaus)\, Maximilianstraße 26-28\
+ , 80539 München\, Deutschland
+DESCRIPTION:Horváths Romankosmos über Anpassung und faschistoide Schüler
+ welten\, kritisch inszeniert.\nPreis: ab 12 €\nTicket-/Anmeldestatus: Ti
+ cketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchungs
+ weg: Offizielle Veranstaltungsdetailseite und angegebener autorisierter Ti
+ cket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buchbarer 
+ Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer Shop).\n
+ Veranstaltungslink: https://www.muenchner-kammerspiele.de/de/programm/5177
+ 1-jugend-ohne-gott
+URL:https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-got
  t
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Langjährige Reporterin erzählt differenziert vom Alltag und K
- rieg im Ostkongo.\nPreis: 10–16 €\nVerfügbarkeit: Ticketverfügbarkei
- t trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalterseite
-  und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbestand 
- sichtbar.\nVeranstaltungslink: https://www.literaturhaus-muenchen.de/veran
- staltung/morgen-gehe-ich-einkaufen-falls-der-markt-noch-steht/\nEndzeit ge
- schätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/morgen-gehe-ich-ein
- kaufen-falls-der-markt-noch-steht/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Judith Raupp: Morgen gehe ich einkaufen\, falls der
-  Markt noch steht
+DESCRIPTION:Erinnerung: Jugend ohne Gott – Kammerspiele
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Judith Raupp: Morgen gehe ich einkaufen\, falls der
-  Markt noch steht
+DESCRIPTION:Erinnerung: Jugend ohne Gott – Kammerspiele
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8155b6a5-97cc-558b-ae47-7886a5c811f6@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T190000
-DTEND;TZID=Europe/Berlin:20261112T204500
-SUMMARY:OVERBURDEN – DOK.fest-Film & politische Diskussion
-LOCATION:Amerikahaus\, Karolinenplatz 3\, 80333 München
-DESCRIPTION:Dokumentarfilm und Panel zu Bergbau\, Naturschutz und Macht in 
- Liberia.\nPreis: Eintritt frei\, Anmeldung\nVerfügbarkeit: Anmeldeplätze
-  trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalterseite 
- und dort angegebene Anmeldeoption geprüft\; freie Anmeldeplätze online n
- icht bestätigbar.\nVeranstaltungslink: https://www.dokfest-muenchen.de/ev
- ents/view/7209\nEndzeit geschätzt.
-URL:https://www.dokfest-muenchen.de/events/view/7209
+UID:fad049ce-d78b-5f8a-b0c7-3394587ec03f@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T203000
+SUMMARY:Wie lange bleibt man Gast? – Özlem Özgül Dündar
+LOCATION:Monacensia im Hildebrandhaus\, Maria-Theresia-Straße 23\, 81675 M
+ ünchen\, Deutschland
+DESCRIPTION:Literaturabend über Zuschreibungen\, Bleiben und die politisch
+ e Sprache der Migration.\nPreis: Eintritt frei\nTicket-/Anmeldestatus: Ein
+ tritt frei\; keine Ticket- oder Pflichtanmeldung ausgewiesen\nGeprüfter B
+ uchungsweg: Offizielle Veranstaltungsseite bestätigt freien Eintritt bzw.
+  nennt keine Anmeldepflicht.\nEndzeit geschätzt.\nVeranstaltungslink: htt
+ ps://www.muenchner-stadtbibliothek.de/veranstaltungen/details/wie-lange-bl
+ eibt-man-gast-45224
+URL:https://www.muenchner-stadtbibliothek.de/veranstaltungen/details/wie-la
+ nge-bleibt-man-gast-45224
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: OVERBURDEN – DOK.fest-Film & politische Diskussio
- n
+DESCRIPTION:Erinnerung: Wie lange bleibt man Gast? – Özlem Özgül Dünd
+ ar
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: OVERBURDEN – DOK.fest-Film & politische Diskussio
- n
+DESCRIPTION:Erinnerung: Wie lange bleibt man Gast? – Özlem Özgül Dünd
+ ar
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4b42edee-2ad5-5aec-bcf7-00ff58dbadfd@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-DTEND;TZID=Europe/Berlin:20261112T210500
-SUMMARY:(Münchner) Verkehr – choreografische Versuchsanordnung
-LOCATION:Münchner Kammerspiele\, Therese-Giehse-Halle\, Falckenbergstraße
-  1\, 80539 München
-DESCRIPTION:Radikale choreografische Relektüre Valeska Gerts\, anschließe
- nd Lenbachhaus-Gespräch.\nPreis: Preis lt. Spielplan\nVerfügbarkeit: Tic
- ketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete V
- eranstalterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer 
- Echtzeitbestand sichtbar.\nVeranstaltungslink: https://www.muenchner-kamme
- rspiele.de/de/programm/51761-munchner-verkehr
-URL:https://www.muenchner-kammerspiele.de/de/programm/51761-munchner-verkeh
- r
+UID:fd53dcce-1f0f-5a11-ba14-2d1ad4e8866a@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T210000
+SUMMARY:ensemble oktopus: Verbindung 2 – Erinnerung und Aufbruch
+LOCATION:Reaktorhalle\, Luisenstraße 37a\, 80333 München\, Deutschland
+DESCRIPTION:Profilierte Neue Musik: Murail\, Sánchez-Verdú\, Birkenkötte
+ r und Uraufführung von Marvel Jem Roth.\nPreis: Eintritt frei\, Ausgabe E
+ inlassbändchen ab 18 Uhr\nTicket-/Anmeldestatus: Eintritt frei\; keine Ti
+ cket- oder Pflichtanmeldung ausgewiesen\nGeprüfter Buchungsweg: Offiziell
+ e Veranstaltungsseite bestätigt freien Eintritt bzw. nennt keine Anmeldep
+ flicht.\nHinweis: Kostenlose Einlassbändchen am Veranstaltungsort\, keine
+  Voranmeldung.\nEndzeit geschätzt.\nVeranstaltungslink: https://hmtm.de/v
+ eranstaltungen/ensemble-oktopus-verbindung-2/
+URL:https://hmtm.de/veranstaltungen/ensemble-oktopus-verbindung-2/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: (Münchner) Verkehr – choreografische Versuchsano
- rdnung
+DESCRIPTION:Erinnerung: ensemble oktopus: Verbindung 2 – Erinnerung und A
+ ufbruch
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: (Münchner) Verkehr – choreografische Versuchsano
- rdnung
+DESCRIPTION:Erinnerung: ensemble oktopus: Verbindung 2 – Erinnerung und A
+ ufbruch
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b52b0257-6736-5c68-ac6e-559b0740557f@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-DTEND;TZID=Europe/Berlin:20261112T220000
-SUMMARY:Bauer meets Collot: Le temps détruit tout
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Umgekehrte Zeitdramaturgie\, neue Kompositionen von Michael Ema
- nuel Bauer und Ustwolskaja/Crumb.\nPreis: Preis lt. Buchungsseite\nVerfüg
- barkeit: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung
- : Konkrete Veranstalterseite und ggf. dortigen Ticketlink geprüft\; kein 
- belastbarer Echtzeitbestand sichtbar.\nVeranstaltungslink: https://schwere
- reiter.de/?tribe_events=bauer-meets-collot-le-temps-detruit-tout\nEndzeit 
- geschätzt.
-URL:https://schwerereiter.de/?tribe_events=bauer-meets-collot-le-temps-detr
- uit-tout
+UID:37956c77-eea1-5719-ad90-60c0c232dfe4@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+DTEND;TZID=Europe/Berlin:20261124T213000
+SUMMARY:Dacia Maraini: Ragazze di Palermo
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München\, Deutsc
+ hland
+DESCRIPTION:Die bedeutende italienische Autorin über Frauen\, Lebensläufe
+  und antifaschistische Erinnerung.\nPreis: 10–20 €\nTicket-/Anmeldesta
+ tus: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nGeprüfter B
+ uchungsweg: Offizielle Veranstaltungsdetailseite und angegebener autorisie
+ rter Ticket- oder Buchungslink geprüft\; ein aktueller\, tatsächlich buc
+ hbarer Platzbestand wurde nicht nachweisbar angezeigt (teils dynamischer S
+ hop).\nEndzeit geschätzt.\nVeranstaltungslink: https://www.literaturhaus-
+ muenchen.de/veranstaltung/ragazze-di-palermo/
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/ragazze-di-palermo/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Bauer meets Collot: Le temps détruit tout
+DESCRIPTION:Erinnerung: Dacia Maraini: Ragazze di Palermo
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Bauer meets Collot: Le temps détruit tout
+DESCRIPTION:Erinnerung: Dacia Maraini: Ragazze di Palermo
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bb6e5db2-4a45-56b5-a5dd-f5a17ea1bab4@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261112T200000
-DTEND;TZID=Europe/Berlin:20261112T220000
-SUMMARY:Taxi Salon: FUJI||||||||||TA + Amina Hocine + Mazen Kerbaj
-LOCATION:Import Export\, Schwere-Reiter-Straße 2h\, 80797 München
-DESCRIPTION:Selbstgebautes Luftinstrument\, Kompressor-Klangskulptur und er
- weiterte Trompetentechnik\; Raumklangkunst.\nPreis: 13 € VVK + Gebühren
-  / 16 € AK\nVerfügbarkeit: Ticketverfügbarkeit trotz Recherche nicht f
- eststellbar\nPrüfung: Konkrete Veranstalterseite und ggf. dortigen Ticket
- link geprüft\; kein belastbarer Echtzeitbestand sichtbar.\nVeranstaltungs
- link: https://import-export.cc/event/taxi-salon-fujita-amina-hocine-mazen-
- kerbaj/\nEndzeit geschätzt.
-URL:https://import-export.cc/event/taxi-salon-fujita-amina-hocine-mazen-ker
- baj/
+UID:14fc2c23-92e0-57ca-9dc2-b42872ef8f95@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261124T200000
+DTEND;TZID=Europe/Berlin:20261124T220000
+SUMMARY:fastfood theater – Best of Life
+LOCATION:Wirtshaus im Schlachthof (Wirtshausbrettl)\, Zenettistraße 9\, 80
+ 337 München\, Deutschland
+DESCRIPTION:Ausgezeichnetes Improvisationstheater: spontan entstehende Szen
+ en statt vorgefertigter Bühnennummern.\nPreis: 22\,30 € zzgl. ggf. Geb
+ ühren\nTicket-/Anmeldestatus: Tickets verfügbar\; buchbare reguläre Kat
+ egorie im autorisierten Shop angezeigt\nGeprüfter Buchungsweg: Autorisier
+ ter Ticketshop zeigt die reguläre Ticketkategorie mit Mengenauswahl und a
+ ktivem Warenkorb.\nHinweis: Veranstalterlink führt zum Wirtshausbrettl-Ti
+ cketshop mit Warenkorb.\nEndzeit geschätzt.\nVeranstaltungslink: https://
+ www.fastfood-theater.de/shows/best-of-life/
+URL:https://www.fastfood-theater.de/shows/best-of-life/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Taxi Salon: FUJI||||||||||TA + Amina Hocine + Mazen
-  Kerbaj
+DESCRIPTION:Erinnerung: fastfood theater – Best of Life
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Taxi Salon: FUJI||||||||||TA + Amina Hocine + Mazen
-  Kerbaj
+DESCRIPTION:Erinnerung: fastfood theater – Best of Life
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ab3f531a-ec29-59f5-b5de-22cfe9fee5e9@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261113T143000
-DTEND;TZID=Europe/Berlin:20261113T230000
-SUMMARY:Schamrock-Festival der Dichterinnen – Tag 1
-LOCATION:Einstein Kultur\, Einsteinstraße 42\, 81675 München
-DESCRIPTION:Internationale Lyrikbiennale: mehr als 50 Dichterinnen\, Perfor
- mances und politische Poesie.\nPreis: 18 € Tag / 12 € Abend\nVerfügba
- rkeit: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: 
- Konkrete Veranstalterseite und ggf. dortigen Ticketlink geprüft\; kein be
- lastbarer Echtzeitbestand sichtbar.\nVeranstaltungslink: https://www.muenc
- henticket.de/event/8-schamrock-festival-der-dichterinnen-39981/
-URL:https://www.muenchenticket.de/event/8-schamrock-festival-der-dichterinn
- en-39981/
+UID:b363dffa-bb93-5fae-95e7-c97b800f4dec@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261125T183000
+DTEND;TZID=Europe/Berlin:20261125T200000
+SUMMARY:Cleo Birdwell / Don DeLillo: Amazonen – Frank Heibert
+LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München\, Deutsc
+ hland
+DESCRIPTION:Literarisch eigensinniges Gespräch über Don DeLillos Pseudony
+ m und Übersetzung.\nPreis: 9–12 €\nTicket-/Anmeldestatus: Ticketverf
+ ügbarkeit trotz Recherche nicht feststellbar\nGeprüfter Buchungsweg: Off
+ izielle Veranstaltungsdetailseite und angegebener autorisierter Ticket- od
+ er Buchungslink geprüft\; ein aktueller\, tatsächlich buchbarer Platzbes
+ tand wurde nicht nachweisbar angezeigt (teils dynamischer Shop).\nEndzeit 
+ geschätzt.\nVeranstaltungslink: https://www.literaturhaus-muenchen.de/ver
+ anstaltung/cleo-birdwell-amazonen/
+URL:https://www.literaturhaus-muenchen.de/veranstaltung/cleo-birdwell-amazo
+ nen/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schamrock-Festival der Dichterinnen – Tag 1
+DESCRIPTION:Erinnerung: Cleo Birdwell / Don DeLillo: Amazonen – Frank Hei
+ bert
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schamrock-Festival der Dichterinnen – Tag 1
+DESCRIPTION:Erinnerung: Cleo Birdwell / Don DeLillo: Amazonen – Frank Hei
+ bert
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e44ed1e8-c46f-5212-8554-34f0a2958eab@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261113T190000
-DTEND;TZID=Europe/Berlin:20261113T203000
-SUMMARY:Salon Luitpold: Generationengerechtigkeit – Karsten Fischer
-LOCATION:Café Luitpold\, Brienner Straße 11\, 80333 München
-DESCRIPTION:Politische Theorie zu Klima\, Migration und Renten zwischen den
-  Generationen.\nPreis: 6–52 €\nVerfügbarkeit: Ticketverfügbarkeit tr
- otz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalterseite und
-  ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbestand sich
- tbar.\nVeranstaltungslink: https://www.cafe-luitpold.de/produkt/salon-luit
- pold-intergenerationale-gerechtigkeit-als-moralpolitisches-problem-fuer-ge
- nerationen-migrations-und-oekologiekonflikte-13-11-2026-19-uhr/
-URL:https://www.cafe-luitpold.de/produkt/salon-luitpold-intergenerationale-
- gerechtigkeit-als-moralpolitisches-problem-fuer-generationen-migrations-un
- d-oekologiekonflikte-13-11-2026-19-uhr/
+UID:6302952f-e911-5707-9fb3-cbd060b1d28a@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261125T193000
+DTEND;TZID=Europe/Berlin:20261125T220000
+SUMMARY:KINO ASYL 2026 – Filme aus unserer Heimat
+LOCATION:Münchner Kammerspiele (Werkraum)\, Hildegardstraße 1\, 80539 Mü
+ nchen\, Deutschland
+DESCRIPTION:Geflüchtete kuratieren selbst einen Filmabend mit persönliche
+ n Präsentationen und Q&As.\nPreis: Eintritt frei\, kostenlose Zählkarten
+ \nTicket-/Anmeldestatus: Tickets verfügbar – nur wenige Restplätze (la
+ ut offiziellem Spielplan)\nGeprüfter Buchungsweg: Offizieller Spielplan z
+ eigt ausdrücklich Wenige Tickets / reguläre Zählkarten.\nHinweis: Offiz
+ ieller Kammerspiele-Spielplan nennt wenige Tickets.\nVeranstaltungslink: h
+ ttps://www.muenchner-kammerspiele.de/de/programm/54033-kino-asyl-2026
+URL:https://www.muenchner-kammerspiele.de/de/programm/54033-kino-asyl-2026
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Salon Luitpold: Generationengerechtigkeit – Karst
- en Fischer
+DESCRIPTION:Erinnerung: KINO ASYL 2026 – Filme aus unserer Heimat
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Salon Luitpold: Generationengerechtigkeit – Karst
- en Fischer
+DESCRIPTION:Erinnerung: KINO ASYL 2026 – Filme aus unserer Heimat
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b4a2ab91-1e4e-5854-b40a-09c2741c026f@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261113T190000
-DTEND;TZID=Europe/Berlin:20261113T203000
-SUMMARY:Emmanuel Carrère: Kolchose
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Familiengeschichte zwischen Russland\, Georgien\, Exil und Ukra
- inekrieg\; hochkarätige Lesung.\nPreis: 10–20 €\nVerfügbarkeit: Tick
- etverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Ve
- ranstalterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer E
- chtzeitbestand sichtbar.\nVeranstaltungslink: https://www.literaturhaus-mu
- enchen.de/veranstaltung/kolchose/\nEndzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/kolchose/
+UID:b36411c8-86f7-5c9f-9270-9fec9812a7dd@muc-kultur
+DTSTAMP:20261119T072349Z
+DTSTART;TZID=Europe/Berlin:20261125T200000
+DTEND;TZID=Europe/Berlin:20261125T213000
+SUMMARY:hellhörig: Saiten-Bilder – Zitherorchester
+LOCATION:Reaktorhalle\, Luisenstraße 37a\, 80333 München\, Deutschland
+DESCRIPTION:Neue Zitherorchesterfassung von Mussorgskys Bilder einer Ausste
+ llung\; Promenade-Motiv verbindet alte und neue Musik.\nPreis: Eintritt fr
+ ei\nTicket-/Anmeldestatus: Eintritt frei\; keine Ticket- oder Pflichtanmel
+ dung ausgewiesen\nGeprüfter Buchungsweg: Offizielle Veranstaltungsseite b
+ estätigt freien Eintritt bzw. nennt keine Anmeldepflicht.\nHinweis: Carl-
+ Orff-Auditorium\, Reaktorhallenkomplex\; genaue Raumangabe im Original.\nE
+ ndzeit geschätzt.\nVeranstaltungslink: https://hmtm.de/veranstaltungen/he
+ llhoerig-saiten-bilder/
+URL:https://hmtm.de/veranstaltungen/hellhoerig-saiten-bilder/
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Emmanuel Carrère: Kolchose
+DESCRIPTION:Erinnerung: hellhörig: Saiten-Bilder – Zitherorchester
 TRIGGER:-P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Emmanuel Carrère: Kolchose
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d089c1ca-349b-5e30-ae13-2f996112352d@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261113T200000
-DTEND;TZID=Europe/Berlin:20261113T220000
-SUMMARY:Stemeseder/Lillinger: Antumbra and Penumbra II
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Kompositorische Klangarbeit mit disharmonischen Progressionen u
- nd rhythmischer Selbstauflösung\; Grenzfall mit Substanz.\nPreis: Preis l
- t. Buchungsseite\nVerfügbarkeit: Ticketverfügbarkeit trotz Recherche nic
- ht feststellbar\nPrüfung: Konkrete Veranstalterseite und ggf. dortigen Ti
- cketlink geprüft\; kein belastbarer Echtzeitbestand sichtbar.\nVeranstalt
- ungslink: https://schwerereiter.de/?tribe_events=stemeseder-lillinger-antu
- mbra-and-penumbra-ii\nEndzeit geschätzt.
-URL:https://schwerereiter.de/?tribe_events=stemeseder-lillinger-antumbra-an
- d-penumbra-ii
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Stemeseder/Lillinger: Antumbra and Penumbra II
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Stemeseder/Lillinger: Antumbra and Penumbra II
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a9c23bc2-a934-548b-a650-4cac32312e47@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261113T200000
-DTEND;TZID=Europe/Berlin:20261113T220000
-SUMMARY:Schubert in Paradise – Premiere
-LOCATION:Münchner Kammerspiele\, Schauspielhaus\, Maximilianstraße 26–2
- 8\, 80539 München
-DESCRIPTION:Szenisches Konzert über Schuberts Lieder in heutiger Perspekti
- ve\, drei Schauspielerinnen und Sängerinnen.\nPreis: Preis lt. Spielplan\
- nVerfügbarkeit: Ticketverfügbarkeit trotz Recherche nicht feststellbar\n
- Prüfung: Konkrete Veranstalterseite und ggf. dortigen Ticketlink geprüft
- \; kein belastbarer Echtzeitbestand sichtbar.\nVeranstaltungslink: https:/
- /www.muenchner-kammerspiele.de/de/programm/51812-schubert-in-paradise\nEnd
- zeit geschätzt.
-URL:https://www.muenchner-kammerspiele.de/de/programm/51812-schubert-in-par
- adise
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schubert in Paradise – Premiere
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schubert in Paradise – Premiere
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:346515c3-6cd9-509d-a87f-9fc80f85a924@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261114T120000
-DTEND;TZID=Europe/Berlin:20261114T230000
-SUMMARY:Schamrock-Festival der Dichterinnen – Tag 2
-LOCATION:Einstein Kultur\, Einsteinstraße 42\, 81675 München
-DESCRIPTION:Lyrik\, exilierte Schriftstellerinnen und eigenständige Perfor
- manceformate.\nPreis: 18 € Tag / 12 € Abend\nVerfügbarkeit: Ticketver
- fügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranst
- alterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtze
- itbestand sichtbar.\nVeranstaltungslink: https://www.muenchenticket.de/eve
- nt/8-schamrock-festival-der-dichterinnen-39981/
-URL:https://www.muenchenticket.de/event/8-schamrock-festival-der-dichterinn
- en-39981/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schamrock-Festival der Dichterinnen – Tag 2
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schamrock-Festival der Dichterinnen – Tag 2
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:be954504-bc80-558a-b0c3-6d8c9fe61ad5@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261114T120000
-DTEND;TZID=Europe/Berlin:20261114T200000
-SUMMARY:Mythen\, Misogynie\, Medien – feministischer Kunstsalon
-LOCATION:Habibi Kiosk\, Münchner Kammerspiele\, Maximilianstraße 26–28\
- , 80539 München
-DESCRIPTION:Dreitägige kritische Gegenüberstellung antiker Mythen und dig
- italer antifeministischer Narrative.\nPreis: Eintritt frei\, Anmeldung\nVe
- rfügbarkeit: Anmeldeplätze trotz Recherche nicht feststellbar\nPrüfung:
-  Konkrete Veranstalterseite und dort angegebene Anmeldeoption geprüft\; f
- reie Anmeldeplätze online nicht bestätigbar.\nVeranstaltungslink: https:
- //www.muenchner-kammerspiele.de/de/programm/53972-mythen-misogynie-medien
-URL:https://www.muenchner-kammerspiele.de/de/programm/53972-mythen-misogyni
- e-medien
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Mythen\, Misogynie\, Medien – feministischer Kuns
- tsalon
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Mythen\, Misogynie\, Medien – feministischer Kuns
- tsalon
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:aa449d48-33f8-5557-b82d-d4cdc82b6d6d@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261114T190000
-DTEND;TZID=Europe/Berlin:20261114T213000
-SUMMARY:40. Griechische Filmwoche: Bull’s Heart – Dimitris Papaioannou
-LOCATION:Münchner Kammerspiele\, Schauspielhaus\, Maximilianstraße 26–2
- 8\, 80539 München
-DESCRIPTION:Filmessay über das Entstehen radikaler Tanztheaterkunst\, mit 
- Papaioannou persönlich.\nPreis: 16\,50 €\nVerfügbarkeit: Ticketverfüg
- barkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalte
- rseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbe
- stand sichtbar.\nVeranstaltungslink: https://www.muenchner-kammerspiele.de
- /de/programm/53993-40-jahre-griechische-filmwoche
-URL:https://www.muenchner-kammerspiele.de/de/programm/53993-40-jahre-griech
- ische-filmwoche
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: 40. Griechische Filmwoche: Bull’s Heart – Dimit
- ris Papaioannou
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: 40. Griechische Filmwoche: Bull’s Heart – Dimit
- ris Papaioannou
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:36efdce7-54c3-50b4-8561-a1f50aa5bcfd@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261114T200000
-DTEND;TZID=Europe/Berlin:20261114T210500
-SUMMARY:(Münchner) Verkehr – choreografische Versuchsanordnung
-LOCATION:Münchner Kammerspiele\, Therese-Giehse-Halle\, Falckenbergstraße
-  1\, 80539 München
-DESCRIPTION:Experimenteller choreografischer Dialog mit Valeska Gerts Verke
- hrstanz.\nPreis: Preis lt. Spielplan\nVerfügbarkeit: Ticketverfügbarkeit
-  trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalterseite 
- und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbestand s
- ichtbar.\nVeranstaltungslink: https://www.muenchner-kammerspiele.de/de/pro
- gramm/51761-munchner-verkehr
-URL:https://www.muenchner-kammerspiele.de/de/programm/51761-munchner-verkeh
- r
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: (Münchner) Verkehr – choreografische Versuchsano
- rdnung
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: (Münchner) Verkehr – choreografische Versuchsano
- rdnung
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:88bcae88-54ad-589b-ade6-05b121de82fa@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261114T200000
-DTEND;TZID=Europe/Berlin:20261114T220000
-SUMMARY:Sandra Chatterjee: # Rights to Rites
-LOCATION:Einstein Kultur\, Halle 02\, Einsteinstraße 42\, 81675 München
-DESCRIPTION:Tanz\, Musik\, Sprache\, Duft und Lecture als dekolonialer Erin
- nerungsraum.\nPreis: Preis nicht veröffentlicht\nVerfügbarkeit: Ticketve
- rfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Verans
- talterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtz
- eitbestand sichtbar.\nVeranstaltungslink: https://www.einsteinkultur.de/ev
- ent/sandra-chatterjee-rights-to-rites-songs-of-memory-and-resistance/\nEnd
- zeit geschätzt.
-URL:https://www.einsteinkultur.de/event/sandra-chatterjee-rights-to-rites-s
- ongs-of-memory-and-resistance/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Sandra Chatterjee: # Rights to Rites
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Sandra Chatterjee: # Rights to Rites
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:09ce65ac-5fb4-5aac-b994-9cbf5558965d@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261114T200000
-DTEND;TZID=Europe/Berlin:20261114T220000
-SUMMARY:fastfood theater: Bayerische Volksimpro
-LOCATION:Wirtshaus im Schlachthof\, Zenettistraße 9\, 80337 München
-DESCRIPTION:Improvisation als eigenständige theatrale Untersuchung bayeris
- cher Kulturmuster.\nPreis: ca. 22–26 €\nVerfügbarkeit: Ticketverfügb
- arkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalter
- seite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbes
- tand sichtbar.\nVeranstaltungslink: https://www.fastfood-theater.de/shows/
- volksimpro/\nEndzeit geschätzt.
-URL:https://www.fastfood-theater.de/shows/volksimpro/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: fastfood theater: Bayerische Volksimpro
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: fastfood theater: Bayerische Volksimpro
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0746f167-0f7d-5bc0-8f0f-13f0104b62b9@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T110000
-DTEND;TZID=Europe/Berlin:20261115T230000
-SUMMARY:Schamrock-Festival der Dichterinnen – Tag 3
-LOCATION:Einstein Kultur\, Einsteinstraße 42\, 81675 München
-DESCRIPTION:Internationales Lyrikfinale und Debatte über politische Teilha
- be von Dichterinnen.\nPreis: 18 € Tag / 12 € Abend\nVerfügbarkeit: Ti
- cketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete 
- Veranstalterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer
-  Echtzeitbestand sichtbar.\nVeranstaltungslink: https://www.muenchenticket
- .de/event/8-schamrock-festival-der-dichterinnen-39981/
-URL:https://www.muenchenticket.de/event/8-schamrock-festival-der-dichterinn
- en-39981/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schamrock-Festival der Dichterinnen – Tag 3
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schamrock-Festival der Dichterinnen – Tag 3
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2e70e7d1-4b9e-5af5-ace9-3fd502693ab3@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T110000
-DTEND;TZID=Europe/Berlin:20261115T123000
-SUMMARY:Spuren der Vergangenheit – Stimmen der Zukunft
-LOCATION:Museum Fünf Kontinente\, Maximilianstraße 42\, 80538 München
-DESCRIPTION:Tanz\, Performance und Erinnerung von Frauen mit lateinamerikan
- ischer Migrationsgeschichte.\nPreis: Eintritt frei\, Anmeldung\nVerfügbar
- keit: Anmeldeplätze trotz Recherche nicht feststellbar\nPrüfung: Konkret
- e Veranstalterseite und dort angegebene Anmeldeoption geprüft\; freie Anm
- eldeplätze online nicht bestätigbar.\nVeranstaltungslink: https://www.mu
- seum-fuenf-kontinente.de/programm/kalender/2026/november/spuren-der-vergan
- genheit-stimmen-der-zukunft\nEndzeit geschätzt.
-URL:https://www.museum-fuenf-kontinente.de/programm/kalender/2026/november/
- spuren-der-vergangenheit-stimmen-der-zukunft
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Spuren der Vergangenheit – Stimmen der Zukunft
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Spuren der Vergangenheit – Stimmen der Zukunft
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:739c7683-bb65-5d9b-99d7-f58f2559b049@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T130000
-DTEND;TZID=Europe/Berlin:20261115T143000
-SUMMARY:Rundgang am ehemaligen Zwangsarbeiter*innenlager Neuaubing
-LOCATION:Erinnerungsort Neuaubing\, Ehrenbürgstraße 9\, 81249 München
-DESCRIPTION:Historisch präziser Rundgang durch baulich erhaltene Zeugnisse
-  der NS-Zwangsarbeit.\nPreis: Eintritt frei\, Anmeldung\nVerfügbarkeit: A
- nmeldeplätze trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veran
- stalterseite und dort angegebene Anmeldeoption geprüft\; freie Anmeldepl
- ätze online nicht bestätigbar.\nVeranstaltungslink: https://www.in-muenc
- hen.de/events/das-ehemalige-zwangsarbeiterinnenlager-neuaubing.html\nEndze
- it geschätzt.
-URL:https://www.in-muenchen.de/events/das-ehemalige-zwangsarbeiterinnenlage
- r-neuaubing.html
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Rundgang am ehemaligen Zwangsarbeiter*innenlager Ne
- uaubing
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Rundgang am ehemaligen Zwangsarbeiter*innenlager Ne
- uaubing
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:0ebd6eda-2dab-5370-b72f-8dc2da71ac6e@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T144500
-DTEND;TZID=Europe/Berlin:20261115T193000
-SUMMARY:Schönberg und Kandinsky – Symposium: Vorträge
-LOCATION:HMTM\, Kleiner Konzertsaal\, Arcisstraße 12\, 80333 München
-DESCRIPTION:Verbindungen von Musiktheorie und Malerei\, Kooperation mit dem
-  Lenbachhaus\; Beginn vorverlegt.\nPreis: Eintritt frei\nVerfügbarkeit: E
- intritt frei\, keine Ticketpflicht laut Veranstalter\nPrüfung: Konkrete o
- ffizielle Veranstaltungsseite nennt freien Zugang ohne Ticketpflicht.\nVer
- anstaltungslink: https://hmtm.de/veranstaltungen/symposium-zu-schoenberg-u
- nd-kandinsky-vortraege-3/\nEndzeit geschätzt.
-URL:https://hmtm.de/veranstaltungen/symposium-zu-schoenberg-und-kandinsky-v
- ortraege-3/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schönberg und Kandinsky – Symposium: Vorträge
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schönberg und Kandinsky – Symposium: Vorträge
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:124946e6-d114-5aee-8e7f-e7d510719dcc@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T150000
-DTEND;TZID=Europe/Berlin:20261115T213000
-SUMMARY:MGNM Musikfest 2026 – fünf Neue-Musik-Blöcke
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Szenefestival eigenständiger zeitgenössischer Kompositionen\,
-  fünf Konzertblöcke.\nPreis: 20 € Tag / 10 € Block\nVerfügbarkeit: 
- Ticketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkret
- e Veranstalterseite und ggf. dortigen Ticketlink geprüft\; kein belastbar
- er Echtzeitbestand sichtbar.\nVeranstaltungslink: https://www.mgnm.de/musi
- kfest/musikfest-2026
-URL:https://www.mgnm.de/musikfest/musikfest-2026
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: MGNM Musikfest 2026 – fünf Neue-Musik-Blöcke
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: MGNM Musikfest 2026 – fünf Neue-Musik-Blöcke
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:24516422-bafd-5d2e-8a6b-179ff5279083@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T160000
-DTEND;TZID=Europe/Berlin:20261115T173000
-SUMMARY:Jeeps – Nora Abdel-Maksoud
-LOCATION:Münchner Kammerspiele\, Schauspielhaus\, Maximilianstraße 26–2
- 8\, 80539 München
-DESCRIPTION:Bittere Satire auf Erbrecht\, Wohlstandsverteilung und die sozi
- alen Selbsttäuschungen.\nPreis: ab 18 €\nVerfügbarkeit: Ticketverfügb
- arkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalter
- seite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbes
- tand sichtbar.\nVeranstaltungslink: https://www.muenchner-kammerspiele.de/
- de/programm/55-jeeps
-URL:https://www.muenchner-kammerspiele.de/de/programm/55-jeeps
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Jeeps – Nora Abdel-Maksoud
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Jeeps – Nora Abdel-Maksoud
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d5317af9-1473-5f2e-b799-a45ac082fd11@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261115T200000
-DTEND;TZID=Europe/Berlin:20261115T214500
-SUMMARY:Bull’s Heart – Dokumentarfilm & Gespräch mit Papaioannou
-LOCATION:Theatiner Filmkunst\, Theatinerstraße 32\, 80333 München
-DESCRIPTION:Filmische Perspektive auf zeitgenössisches Tanztheater\, ansch
- ließendes Künstlergespräch.\nPreis: Preis lt. Kino\nVerfügbarkeit: Tic
- ketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete V
- eranstalterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer 
- Echtzeitbestand sichtbar.\nVeranstaltungslink: https://griechischefilmwoch
- e.com/\nEndzeit geschätzt.
-URL:https://griechischefilmwoche.com/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Bull’s Heart – Dokumentarfilm & Gespräch mit P
- apaioannou
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Bull’s Heart – Dokumentarfilm & Gespräch mit P
- apaioannou
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:7947a4e4-c770-5174-a725-e05df0353326@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261116T150000
-DTEND;TZID=Europe/Berlin:20261116T160000
-SUMMARY:Schönberg/Kandinsky: Orgel-Lecture-Recital – Bernhard Haas
-LOCATION:HMTM\, Großer Konzertsaal\, Arcisstraße 12\, 80333 München
-DESCRIPTION:Schönbergs Orgelvariationen op. 40 in kuratiertem kunsthistori
- schem Kontext.\nPreis: Eintritt frei\nVerfügbarkeit: Eintritt frei\, kein
- e Ticketpflicht laut Veranstalter\nPrüfung: Konkrete offizielle Veranstal
- tungsseite nennt freien Zugang ohne Ticketpflicht.\nVeranstaltungslink: ht
- tps://hmtm.de/veranstaltungen/symposium-zu-schoenberg-und-kandinsky/\nEndz
- eit geschätzt.
-URL:https://hmtm.de/veranstaltungen/symposium-zu-schoenberg-und-kandinsky/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schönberg/Kandinsky: Orgel-Lecture-Recital – Ber
- nhard Haas
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schönberg/Kandinsky: Orgel-Lecture-Recital – Ber
- nhard Haas
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6694504a-a2a6-51e5-b669-cc0b9ce6806e@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261116T190000
-DTEND;TZID=Europe/Berlin:20261116T203000
-SUMMARY:Schönberg/Kandinsky: Konzert – Klavierstücke & Lieder
-LOCATION:HMTM\, Großer Konzertsaal\, Arcisstraße 12\, 80333 München
-DESCRIPTION:Schönbergs Klavierwerke op. 11/25 und Lieder\, konzertante For
- tsetzung des Symposiums.\nPreis: Eintritt frei\nVerfügbarkeit: Eintritt f
- rei\, keine Ticketpflicht laut Veranstalter\nPrüfung: Konkrete offizielle
-  Veranstaltungsseite nennt freien Zugang ohne Ticketpflicht.\nVeranstaltun
- gslink: https://hmtm.de/veranstaltungen/symposium-zu-schoenberg-und-kandin
- sky-2/\nEndzeit geschätzt.
-URL:https://hmtm.de/veranstaltungen/symposium-zu-schoenberg-und-kandinsky-2
- /
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schönberg/Kandinsky: Konzert – Klavierstücke & 
- Lieder
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Schönberg/Kandinsky: Konzert – Klavierstücke & 
- Lieder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:a3ee5620-dcb9-52d9-994c-474e6ca3ca34@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261116T190000
-DTEND;TZID=Europe/Berlin:20261116T203000
-SUMMARY:Michael Köhlmeier: Mein privates Glück
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Familienroman durch Weltkriegs- und Erinnerungstraumata\, bedeu
- tender Schriftsteller.\nPreis: 10–20 €\nVerfügbarkeit: Ticketverfügb
- arkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalter
- seite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbes
- tand sichtbar.\nVeranstaltungslink: https://www.literaturhaus-muenchen.de/
- veranstaltung/mein-privates-glueck/\nEndzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/mein-privates-gluec
- k/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Michael Köhlmeier: Mein privates Glück
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Michael Köhlmeier: Mein privates Glück
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:144556ec-e79f-5149-930b-f4b72b787661@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261116T190000
-DTEND;TZID=Europe/Berlin:20261116T203000
-SUMMARY:DOK.fest goes schwere reiter – zwei Filme & Gespräch
-LOCATION:schwere reiter\, Dachauer Straße 114a\, 80636 München
-DESCRIPTION:Zwei formal eigenständige Kurzfilme über Demenz und familiär
- e Identität mit Filmgespräch.\nPreis: 9 €\nVerfügbarkeit: Ticketverf
- ügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veransta
- lterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzei
- tbestand sichtbar.\nVeranstaltungslink: https://www.dokfest-muenchen.de/ev
- ents/7208\nEndzeit geschätzt.
-URL:https://www.dokfest-muenchen.de/events/7208
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: DOK.fest goes schwere reiter – zwei Filme & Gespr
- äch
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: DOK.fest goes schwere reiter – zwei Filme & Gespr
- äch
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:f1b90cce-22f2-5ca1-a909-5e401d3f41df@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261117T190000
-DTEND;TZID=Europe/Berlin:20261117T203000
-SUMMARY:Philipp Oehmke: Papenburg
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Gegenwartsroman über Autonomie\, Familie und gesellschaftliche
-  Vereinzelung.\nPreis: 10–16 €\nVerfügbarkeit: Ticketverfügbarkeit t
- rotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstalterseite un
- d ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbestand sic
- htbar.\nVeranstaltungslink: https://www.literaturhaus-muenchen.de/veransta
- ltung/papenburg/\nEndzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/papenburg/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Philipp Oehmke: Papenburg
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Philipp Oehmke: Papenburg
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:569163d5-d22d-55e3-b7b8-a63c4dfd657e@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261117T200000
-DTEND;TZID=Europe/Berlin:20261117T220000
-SUMMARY:Danton – eine revolutionäre Spurensuche
-LOCATION:Münchner Kammerspiele\, Schauspielhaus\, Maximilianstraße 26–2
- 8\, 80539 München
-DESCRIPTION:Inklusives Theaterkollektiv untersucht die Gegenwart politische
- r Revolution jenseits historischer Folklore.\nPreis: ab 12 €\nVerfügbar
- keit: Ticketverfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: K
- onkrete Veranstalterseite und ggf. dortigen Ticketlink geprüft\; kein bel
- astbarer Echtzeitbestand sichtbar.\nVeranstaltungslink: https://www.muench
- ner-kammerspiele.de/de/programm/51507-danton
-URL:https://www.muenchner-kammerspiele.de/de/programm/51507-danton
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Danton – eine revolutionäre Spurensuche
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Danton – eine revolutionäre Spurensuche
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:ba5b414c-efe9-5940-bac0-c2e835c874e2@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261118T171500
-DTEND;TZID=Europe/Berlin:20261118T181500
-SUMMARY:Musik im Diskurs: Mendelssohns Manuskripte
-LOCATION:HMTM\, Raum A 105\, Arcisstraße 12\, 80333 München
-DESCRIPTION:Musikhistorische Mikroanalyse von Mendelssohns Album und sozial
- en Bindungen.\nPreis: Eintritt frei\nVerfügbarkeit: Eintritt frei\, keine
-  Ticketpflicht laut Veranstalter\nPrüfung: Konkrete offizielle Veranstalt
- ungsseite nennt freien Zugang ohne Ticketpflicht.\nVeranstaltungslink: htt
- ps://hmtm.de/veranstaltungen/musik-im-diskurs-manuskripte-und-die-gestaltu
- ng-sozialer-uebergaenge/
-URL:https://hmtm.de/veranstaltungen/musik-im-diskurs-manuskripte-und-die-ge
- staltung-sozialer-uebergaenge/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Musik im Diskurs: Mendelssohns Manuskripte
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Musik im Diskurs: Mendelssohns Manuskripte
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:99747f3a-92c1-584f-a6af-53243f110a54@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261118T190000
-DTEND;TZID=Europe/Berlin:20261118T231000
-SUMMARY:Meister und Margarita – Jette Steckel
-LOCATION:Münchner Kammerspiele\, Schauspielhaus\, Maximilianstraße 26–2
- 8\, 80539 München
-DESCRIPTION:Große künstlerische Bühne über Bulgakows Widerstand gegen s
- talinistische Zensur.\nPreis: ab 18 €\nVerfügbarkeit: Ticketverfügbark
- eit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Veranstaltersei
- te und ggf. dortigen Ticketlink geprüft\; kein belastbarer Echtzeitbestan
- d sichtbar.\nVeranstaltungslink: https://www.muenchner-kammerspiele.de/de/
- programm/42859-meister-und-margarita
-URL:https://www.muenchner-kammerspiele.de/de/programm/42859-meister-und-mar
- garita
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Meister und Margarita – Jette Steckel
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Meister und Margarita – Jette Steckel
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9da958cd-947e-5da7-8bf5-ff217b399472@muc-kultur
-DTSTAMP:20261112T082924Z
-DTSTART;TZID=Europe/Berlin:20261118T200000
-DTEND;TZID=Europe/Berlin:20261118T213000
-SUMMARY:Der Jüdische Buchklub – mit Hito Steyerl
-LOCATION:Literaturhaus München\, Salvatorplatz 1\, 80333 München
-DESCRIPTION:Künstlerin Hito Steyerl diskutiert jüdische Literatur und die
-  politische Macht von Bildern.\nPreis: 10–16 €\nVerfügbarkeit: Ticket
- verfügbarkeit trotz Recherche nicht feststellbar\nPrüfung: Konkrete Vera
- nstalterseite und ggf. dortigen Ticketlink geprüft\; kein belastbarer Ech
- tzeitbestand sichtbar.\nVeranstaltungslink: https://www.literaturhaus-muen
- chen.de/veranstaltung/der-juedische-buchklub-2/\nEndzeit geschätzt.
-URL:https://www.literaturhaus-muenchen.de/veranstaltung/der-juedische-buchk
- lub-2/
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Der Jüdische Buchklub – mit Hito Steyerl
-TRIGGER:-P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Erinnerung: Der Jüdische Buchklub – mit Hito Steyerl
+DESCRIPTION:Erinnerung: hellhörig: Saiten-Bilder – Zitherorchester
 TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
